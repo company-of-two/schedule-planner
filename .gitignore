@@ -2,7 +2,7 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # macOS files
-.DSYM
+.DS_Store
 
 # Visual Studio Code settings
 */.vscode

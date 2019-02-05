@@ -1,10 +1,11 @@
 from get import get_url
-from schedule import Schedule
+from programme import Programme
 
-if __name__ == '__main__':
+url = 'https://program.lfs.cz/?&alldates=1'
 
-    url = 'https://program.lfs.cz/?&alldates=1'
+# Download the website at specified URL
+data = get_url(url)
 
-    data = get_url(url)
-    print(len(data))
-    lfsSchedule = Schedule(data)
+# Create the programme and export it
+programme = Programme(data)
+programme.export('../programmes/summer-movie-school-2018-programme.xml')
