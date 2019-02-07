@@ -1,526 +1,526 @@
 <?xml version="1.0" ?>
 <sessionList>
-	<event dateTime="2018-07-27T16:00:00" duration="73" venue="Stan ČT" name="Záhadný pan Hyde"/>
-	<event dateTime="2018-07-27T17:00:00" duration="125" venue="Kino Hvězda" name="Čas opilých koní"/>
-	<event dateTime="2018-07-27T17:00:00" duration="30" venue="Galerie Slováckého muzea" name="Friedrich Wilhelm Murnau: Soukromé fotografie"/>
-	<event dateTime="2018-07-27T17:00:00" duration="135" venue="Kino Mír" name="Huacho"/>
-	<event dateTime="2018-07-27T17:00:00" duration="120" venue="Slovácké divadlo" name="The Broadway Melody"/>
-	<event dateTime="2018-07-27T17:20:00" duration="76" venue="Stan ČT" name="Hrabě Drakula"/>
-	<event dateTime="2018-07-27T17:30:00" duration="97" venue="Reduta 1" name="Mrtvý mezi živými"/>
-	<event dateTime="2018-07-27T17:30:00" duration="84" venue="Klub kultury 1" name="Hora"/>
-	<event dateTime="2018-07-27T18:00:00" duration="139" venue="Sportovní hala" name="Nina"/>
-	<event dateTime="2018-07-27T18:40:00" duration="84" venue="Stan ČT" name="Hostinec u létavého draka"/>
-	<event dateTime="2018-07-27T19:00:00" duration="90" venue="Divadelní/literární stan" name="Simona Babčáková a kol.: NO A!"/>
-	<event dateTime="2018-07-27T19:30:00" duration="120" venue="Dětský/herní stan" name="Večer deskových her s Mindok"/>
-	<event dateTime="2018-07-27T20:00:00" duration="93" venue="Reduta 1" name="Počátky Triera 1: dětství a univerzitní léta"/>
-	<event dateTime="2018-07-27T20:30:00" duration="127" venue="Slovácké divadlo" name="3 dny v Quiberonu"/>
-	<event dateTime="2018-07-27T20:30:00" duration="107" venue="Kino Hvězda" name="Sedmá pečeť"/>
-	<event dateTime="2018-07-27T21:00:00" duration="148" venue="Sportovní hala" name="Atentát"/>
-	<event dateTime="2018-07-27T21:00:00" duration="85" venue="Klub kultury 1" name="Až přijde válka"/>
-	<event dateTime="2018-07-27T21:00:00" duration="90" venue="Klub Mír" name="Longital"/>
-	<event dateTime="2018-07-27T21:30:00" duration="98" venue="Letní kino Smetanovy sady" name="Vzpoura hraček"/>
-	<event dateTime="2018-07-27T21:30:00" duration="98" venue="Letní kino Smetanovy sady" name="Extase"/>
-	<event dateTime="2018-07-27T22:00:00" duration="90" venue="innogy letní kino Masarykovo nám." name="Tátova volha"/>
-	<event dateTime="2018-07-27T22:30:00" duration="120" venue="Klub Mír" name="DJ Yukimura + Abu"/>
-	<event dateTime="2018-07-27T22:30:00" duration="151" venue="Reduta 1" name="Nikdo nic neví o perských kočkách"/>
-	<event dateTime="2018-07-27T23:30:00" duration="136" venue="Kino Hvězda" name="Whiskey zloděj"/>
-	<event dateTime="2018-07-27T23:30:00" duration="105" venue="Slovácké divadlo" name="Hardcore"/>
-	<event dateTime="2018-07-27T23:59:00" duration="94" venue="Sportovní hala" name="Lesní duch"/>
-	<event dateTime="2018-07-27T23:59:00" duration="75" venue="innogy letní kino Masarykovo nám." name="Stopy hrůzy"/>
-	<event dateTime="2018-07-28T08:30:00" duration="140" venue="Slovácké divadlo" name="Milada"/>
-	<event dateTime="2018-07-28T08:30:00" duration="106" venue="Kino Hvězda" name="Dvanáct rozhněvaných mužů"/>
-	<event dateTime="2018-07-28T09:00:00" duration="109" venue="Reduta 1" name="Podzimní sonáta"/>
-	<event dateTime="2018-07-28T09:00:00" duration="88" venue="Klub kultury 1" name="Srdce lásky"/>
-	<event dateTime="2018-07-28T09:30:00" duration="88" venue="Sportovní hala" name="Bouřlivé počasí"/>
-	<event dateTime="2018-07-28T10:00:00" duration="180" venue="Dětský/herní stan" name="Free Cinema uvádí: workshop Natáčecí den + krátké filmy Free Cinema Films"/>
-	<event dateTime="2018-07-28T10:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 1"/>
-	<event dateTime="2018-07-28T11:00:00" duration="90" venue="Klub kultury 2" name="TV jak ji neznáte aneb od filmu k televizi a zase zpátky"/>
-	<event dateTime="2018-07-28T11:00:00" duration="140" venue="Slovácké divadlo" name="U ohně"/>
-	<event dateTime="2018-07-28T11:00:00" duration="32" venue="Kino Hvězda" name="Rif a Raf, piloti (Hudba: Robert Israel)"/>
-	<event dateTime="2018-07-28T11:00:00" duration="82" venue="Kino Hvězda" name="Míšenec (Hudba: Robert Israel)"/>
-	<event dateTime="2018-07-28T11:30:00" duration="115" venue="Reduta 1" name="Muž na laně"/>
-	<event dateTime="2018-07-28T11:30:00" duration="91" venue="Klub kultury 1" name="Hosté večeře Páně"/>
-	<event dateTime="2018-07-28T11:30:00" duration="135" venue="Kino Mír" name="Archa světel a stínů"/>
-	<event dateTime="2018-07-28T12:00:00" duration="178" venue="Sportovní hala" name="Sokolovo"/>
-	<event dateTime="2018-07-28T12:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 2"/>
-	<event dateTime="2018-07-28T13:30:00" duration="90" venue="Klub kultury 2" name="Lekce filmu podle Mathieua Pradata"/>
-	<event dateTime="2018-07-28T13:45:00" duration="168" venue="Reduta 1" name="Únos"/>
-	<event dateTime="2018-07-28T14:00:00" duration="117" venue="Kino Mír" name="CZ&amp;SK Talents: Blok A"/>
-	<event dateTime="2018-07-28T14:00:00" duration="90" venue="Stan ČT" name="Adaptace"/>
-	<event dateTime="2018-07-28T14:00:00" duration="75" venue="Dětský/herní stan" name="Divadlo Kampa Praha: Děvčátko Momo"/>
-	<event dateTime="2018-07-28T14:30:00" duration="60" venue="Respekt stan" name="Za oponou virálních videí s miliony zhlédnutí!"/>
-	<event dateTime="2018-07-28T14:30:00" duration="92" venue="Kino Hvězda" name="Upír Nosferatu (Hudba: Tábor radosti)"/>
-	<event dateTime="2018-07-28T14:30:00" duration="106" venue="Slovácké divadlo" name="Zlatokopové z roku 1933"/>
-	<event dateTime="2018-07-28T15:00:00" duration="94" venue="Klub kultury 1" name="Studená válka"/>
-	<event dateTime="2018-07-28T15:00:00" duration="30" venue="Altán ve Smetanových sadech" name="Žertu na stopě"/>
-	<event dateTime="2018-07-28T15:30:00" duration="60" venue="Dětský/herní stan" name="Základy parkouru"/>
-	<event dateTime="2018-07-28T15:30:00" duration="90" venue="Klub kultury 2" name="Jak se Trier stal Trierem"/>
-	<event dateTime="2018-07-28T15:30:00" duration="142" venue="Sportovní hala" name="Kristove roky"/>
-	<event dateTime="2018-07-28T16:00:00" duration="90" venue="Stan ČT" name="Propaganda v Československé televizi"/>
-	<event dateTime="2018-07-28T16:00:00" duration="75" venue="Divadelní/literární stan" name="Ingmar Bergman: Sarabanda"/>
-	<event dateTime="2018-07-28T16:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 3"/>
-	<event dateTime="2018-07-28T17:00:00" duration="92" venue="Dětský/herní stan" name="Filmová pohádka – Korunní princ"/>
-	<event dateTime="2018-07-28T17:00:00" duration="90" venue="Respekt stan" name="Turek &amp; Turek uvádí: Viděli jste někdy něco takovýho?"/>
-	<event dateTime="2018-07-28T17:00:00" duration="125" venue="Slovácké divadlo" name="Žert"/>
-	<event dateTime="2018-07-28T17:00:00" duration="120" venue="Kino Mír" name="CZ&amp;SK Talents: Blok B"/>
-	<event dateTime="2018-07-28T17:30:00" duration="121" venue="Reduta 1" name="Strella"/>
-	<event dateTime="2018-07-28T17:30:00" duration="30" venue="Divadelní/literární stan" name="Galina Kopaněva: Spatřit a napsat"/>
-	<event dateTime="2018-07-28T17:30:00" duration="30" venue="Kino Hvězda" name="Stephan Zaubitzer: Cinemas"/>
-	<event dateTime="2018-07-28T17:30:00" duration="74" venue="Klub kultury 1" name="Plody mraků"/>
-	<event dateTime="2018-07-28T17:30:00" duration="119" venue="Klub kultury 1" name="Švéd v žigulíku"/>
-	<event dateTime="2018-07-28T18:00:00" duration="126" venue="Sportovní hala" name="Hairspray"/>
-	<event dateTime="2018-07-28T18:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 4"/>
-	<event dateTime="2018-07-28T18:00:00" duration="90" venue="Stan ČT" name="Trezorová dramatika 1968–1969"/>
-	<event dateTime="2018-07-28T18:15:00" duration="45" venue="Divadelní/literární stan" name="Jarda Konáš"/>
-	<event dateTime="2018-07-28T19:00:00" duration="30" venue="Kino Hvězda" name="Slavnostní zahájení"/>
-	<event dateTime="2018-07-28T19:15:00" duration="60" venue="Respekt stan" name="Jáchym Topol: Citlivý člověk"/>
-	<event dateTime="2018-07-28T19:30:00" duration="143" venue="Kino Hvězda" name="Želvy mohou létat"/>
-	<event dateTime="2018-07-28T20:00:00" duration="120" venue="innogy letní kino Masarykovo nám." name="David Koller"/>
-	<event dateTime="2018-07-28T20:00:00" duration="120" venue="Dětský/herní stan" name="Chytrý kvíz"/>
-	<event dateTime="2018-07-28T20:00:00" duration="60" venue="Stan ČT" name="Ztracená revue"/>
-	<event dateTime="2018-07-28T20:00:00" duration="60" venue="Stan ČT" name="Půjčovna talentů"/>
-	<event dateTime="2018-07-28T20:30:00" duration="152" venue="Reduta 1" name="Božská Ema"/>
-	<event dateTime="2018-07-28T20:30:00" duration="136" venue="Slovácké divadlo" name="Láska mezi regály"/>
-	<event dateTime="2018-07-28T21:00:00" duration="101" venue="Klub kultury 1" name="Šepoty a výkřiky"/>
-	<event dateTime="2018-07-28T21:00:00" duration="60" venue="Divadelní/literární stan" name="Blachut"/>
-	<event dateTime="2018-07-28T21:30:00" duration="130" venue="Sportovní hala" name="Genesis"/>
-	<event dateTime="2018-07-28T21:30:00" duration="109" venue="Letní kino Smetanovy sady" name="Pytlákova schovanka"/>
-	<event dateTime="2018-07-28T22:00:00" duration="60" venue="Divadelní/literární stan" name="Banana split a jeho moralisté"/>
-	<event dateTime="2018-07-28T22:00:00" duration="120" venue="Klub Mír" name="DJ Maceo (Grundfunk / Radio Wave)"/>
-	<event dateTime="2018-07-28T22:00:00" duration="240" venue="innogy letní kino Masarykovo nám." name="Studentský maraton 2018"/>
-	<event dateTime="2018-07-28T23:00:00" duration="30" venue="Respekt stan" name="Horor Planet Dark I"/>
-	<event dateTime="2018-07-28T23:00:00" duration="180" venue="Divadelní/literární stan" name="Cimbálová muzika Hora"/>
-	<event dateTime="2018-07-28T23:30:00" duration="92" venue="Reduta 1" name="Počátky Triera 2: školní léta"/>
-	<event dateTime="2018-07-28T23:30:00" duration="107" venue="Kino Hvězda" name="Lítost"/>
-	<event dateTime="2018-07-28T23:30:00" duration="108" venue="Slovácké divadlo" name="Hmyz"/>
-	<event dateTime="2018-07-28T23:59:00" duration="124" venue="Sportovní hala" name="Poltergeist"/>
-	<event dateTime="2018-07-29T08:30:00" duration="109" venue="Kino Hvězda" name="Miss Violence"/>
-	<event dateTime="2018-07-29T08:30:00" duration="112" venue="Slovácké divadlo" name="Sedm nevěst pro sedm bratrů"/>
-	<event dateTime="2018-07-29T08:30:00" duration="136" venue="Klub kultury 1" name="Whiskey zloděj"/>
-	<event dateTime="2018-07-29T09:00:00" duration="102" venue="Reduta 1" name="Nic jako dřív"/>
-	<event dateTime="2018-07-29T09:30:00" duration="91" venue="Sportovní hala" name="Planeta Česko"/>
-	<event dateTime="2018-07-29T10:00:00" duration="180" venue="Dětský/herní stan" name="Free Cinema uvádí: workshop Natáčecí den + krátké filmy Free Cinema Films"/>
-	<event dateTime="2018-07-29T10:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 1"/>
-	<event dateTime="2018-07-29T11:00:00" duration="90" venue="Klub kultury 2" name="Lekce filmu podle Bahmana Ghobadiho"/>
-	<event dateTime="2018-07-29T11:00:00" duration="113" venue="Kino Hvězda" name="Svět valčíků"/>
-	<event dateTime="2018-07-29T11:00:00" duration="114" venue="Slovácké divadlo" name="Polární záře"/>
-	<event dateTime="2018-07-29T11:30:00" duration="154" venue="Reduta 1" name="Křídla (Hudba: Robert Israel)"/>
-	<event dateTime="2018-07-29T11:30:00" duration="110" venue="Klub kultury 1" name="Tvář"/>
-	<event dateTime="2018-07-29T11:30:00" duration="122" venue="Kino Mír" name="Špión, který přišel z chladu"/>
-	<event dateTime="2018-07-29T12:00:00" duration="84" venue="Sportovní hala" name="Reklamy a klipy Larse von Triera"/>
-	<event dateTime="2018-07-29T12:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 2"/>
-	<event dateTime="2018-07-29T13:30:00" duration="75" venue="Klub kultury 2" name="Co je pravda a co není v historickém filmu"/>
-	<event dateTime="2018-07-29T14:00:00" duration="90" venue="Stan ČT" name="Český film v České televizi"/>
-	<event dateTime="2018-07-29T14:00:00" duration="60" venue="Respekt stan" name="Rozhovor se skupinou Dálava"/>
-	<event dateTime="2018-07-29T14:00:00" duration="60" venue="Dětský/herní stan" name="Divadlo Kampa Praha: Malý princ"/>
-	<event dateTime="2018-07-29T14:00:00" duration="118" venue="Kino Mír" name="Úsměvy letní noci"/>
-	<event dateTime="2018-07-29T14:30:00" duration="89" venue="Kino Hvězda" name="Východ slunce (Hudba: FORMA)"/>
-	<event dateTime="2018-07-29T14:30:00" duration="88" venue="Slovácké divadlo" name="Sezóna nosorožců"/>
-	<event dateTime="2018-07-29T15:00:00" duration="134" venue="Reduta 1" name="Člověk proti zkáze"/>
-	<event dateTime="2018-07-29T15:00:00" duration="115" venue="Klub kultury 1" name="Profil"/>
-	<event dateTime="2018-07-29T15:30:00" duration="88" venue="Sportovní hala" name="Alfred Hitchcock uvádí (Kolaps, Tajemství pana Blancharda, Dokonalý zločin)"/>
-	<event dateTime="2018-07-29T15:30:00" duration="90" venue="Klub kultury 2" name="Inspirace Larse von Triera"/>
-	<event dateTime="2018-07-29T15:30:00" duration="120" venue="Dětský/herní stan" name="Free Cinema uvádí: Dílna kreslené animace"/>
-	<event dateTime="2018-07-29T15:30:00" duration="30" venue="Respekt stan" name="Respekt: Fotografie"/>
-	<event dateTime="2018-07-29T16:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 3"/>
-	<event dateTime="2018-07-29T16:00:00" duration="90" venue="Stan ČT" name="Masterclass: Harold Apter"/>
-	<event dateTime="2018-07-29T17:00:00" duration="133" venue="Kino Mír" name="Kamenolom boží"/>
-	<event dateTime="2018-07-29T17:00:00" duration="30" venue="Slovácké muzeum" name="Bergman 100"/>
-	<event dateTime="2018-07-29T17:00:00" duration="106" venue="Kino Hvězda" name="Kolekce oscarových krátkých filmů"/>
-	<event dateTime="2018-07-29T17:00:00" duration="123" venue="Slovácké divadlo" name="Chicago"/>
-	<event dateTime="2018-07-29T17:30:00" duration="80" venue="Reduta 1" name="Po zkoušce"/>
-	<event dateTime="2018-07-29T17:30:00" duration="149" venue="Klub kultury 1" name="Na krátko"/>
-	<event dateTime="2018-07-29T17:30:00" duration="90" venue="Klub kultury 2" name="Brave New VR Worlds: Futurologický kongres na dohled?"/>
-	<event dateTime="2018-07-29T17:45:00" duration="45" venue="Dětský/herní stan" name="Večerníčky pro pěkný večer – Staré nej…"/>
-	<event dateTime="2018-07-29T18:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 4"/>
-	<event dateTime="2018-07-29T18:00:00" duration="90" venue="Stan ČT" name="Práce s archivem České televize a webový projekt TV Program 1968"/>
-	<event dateTime="2018-07-29T18:00:00" duration="127" venue="Sportovní hala" name="Zabít člověka"/>
-	<event dateTime="2018-07-29T19:00:00" duration="60" venue="Respekt stan" name="Laterna magika dnes"/>
-	<event dateTime="2018-07-29T19:00:00" duration="50" venue="Divadelní/literární stan" name="GAFFA o.z.: Pomalu plynúce dni"/>
-	<event dateTime="2018-07-29T19:30:00" duration="120" venue="Dětský/herní stan" name="Večer deskových her s Mindok"/>
-	<event dateTime="2018-07-29T20:00:00" duration="162" venue="Kino Hvězda" name="West Side Story"/>
-	<event dateTime="2018-07-29T20:00:00" duration="55" venue="Stan ČT" name="Fuga"/>
-	<event dateTime="2018-07-29T20:00:00" duration="55" venue="Stan ČT" name="Kriminalistický případ: Pomluva"/>
-	<event dateTime="2018-07-29T20:30:00" duration="117" venue="Slovácké divadlo" name="Modlitba"/>
-	<event dateTime="2018-07-29T21:00:00" duration="120" venue="Klub kultury 1" name="Donbas"/>
-	<event dateTime="2018-07-29T21:00:00" duration="110" venue="Reduta 1" name="Mladá léta Erika Nietzscheho"/>
-	<event dateTime="2018-07-29T21:00:00" duration="90" venue="Klub Mír" name="Dálava (US, Canada)"/>
-	<event dateTime="2018-07-29T21:00:00" duration="62" venue="Stan ČT" name="Inzerát"/>
-	<event dateTime="2018-07-29T21:30:00" duration="89" venue="Letní kino Smetanovy sady" name="Zde jsou lvi"/>
-	<event dateTime="2018-07-29T21:30:00" duration="108" venue="Sportovní hala" name="Bravados"/>
-	<event dateTime="2018-07-29T22:00:00" duration="85" venue="innogy letní kino Masarykovo nám." name="Prezident Blaník"/>
-	<event dateTime="2018-07-29T22:15:00" duration="115" venue="Stan ČT" name="Korespondence V+W"/>
-	<event dateTime="2018-07-29T22:30:00" duration="120" venue="Klub Mír" name="Tea Jay Ivo"/>
-	<event dateTime="2018-07-29T23:00:00" duration="30" venue="Respekt stan" name="Horor Planet Dark II"/>
-	<event dateTime="2018-07-29T23:00:00" duration="151" venue="Reduta 1" name="Tísnivé okamžiky"/>
-	<event dateTime="2018-07-29T23:30:00" duration="109" venue="Slovácké divadlo" name="Jeden den"/>
-	<event dateTime="2018-07-29T23:30:00" duration="106" venue="Kino Hvězda" name="Špičák"/>
-	<event dateTime="2018-07-29T23:59:00" duration="99" venue="Sportovní hala" name="Stůj při mně"/>
-	<event dateTime="2018-07-29T23:59:00" duration="123" venue="innogy letní kino Masarykovo nám." name="Rock'n Roll"/>
-	<event dateTime="2018-07-30T08:30:00" duration="129" venue="Kino Hvězda" name="Moje šťastná rodina"/>
-	<event dateTime="2018-07-30T08:30:00" duration="94" venue="Slovácké divadlo" name="Studená válka"/>
-	<event dateTime="2018-07-30T09:00:00" duration="103" venue="Klub kultury 1" name="Kvarteto"/>
-	<event dateTime="2018-07-30T09:00:00" duration="85" venue="Reduta 1" name="27. den"/>
-	<event dateTime="2018-07-30T09:30:00" duration="140" venue="Sportovní hala" name="U ohně"/>
-	<event dateTime="2018-07-30T10:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 1"/>
-	<event dateTime="2018-07-30T10:00:00" duration="180" venue="Dětský/herní stan" name="Free Cinema uvádí: workshop Natáčecí den + krátké filmy Free Cinema Films"/>
-	<event dateTime="2018-07-30T11:00:00" duration="110" venue="Klub kultury 1" name="Útěk"/>
-	<event dateTime="2018-07-30T11:00:00" duration="100" venue="Slovácké divadlo" name="Velký Jim McLain"/>
-	<event dateTime="2018-07-30T11:00:00" duration="99" venue="Kino Hvězda" name="Alpy"/>
-	<event dateTime="2018-07-30T11:30:00" duration="129" venue="Kino Mír" name="Bohu žel"/>
-	<event dateTime="2018-07-30T11:30:00" duration="106" venue="Reduta 1" name="Mlčení"/>
-	<event dateTime="2018-07-30T11:45:00" duration="90" venue="Klub kultury 2" name="„Až příliš lidská záležitost“: mužské, ženské, queer?"/>
-	<event dateTime="2018-07-30T12:00:00" duration="90" venue="Stan ČT" name="Most!"/>
-	<event dateTime="2018-07-30T12:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 2"/>
-	<event dateTime="2018-07-30T12:00:00" duration="139" venue="Sportovní hala" name="Vůbec nic se nestalo"/>
-	<event dateTime="2018-07-30T13:00:00" duration="148" venue="Slovácké divadlo" name="Král Šumavy"/>
-	<event dateTime="2018-07-30T13:00:00" duration="30" venue="Věznice Uherské Hradiště" name="Vstupem Vnik"/>
-	<event dateTime="2018-07-30T13:30:00" duration="90" venue="Klub kultury 2" name="CK Monarchia: Polsko a ČR v dobách Rakouska-Uherska"/>
-	<event dateTime="2018-07-30T13:30:00" duration="90" venue="Respekt stan" name="Nová krev českého filmu"/>
-	<event dateTime="2018-07-30T14:00:00" duration="90" venue="Stan ČT" name="Česká na sockách: Strategie marketingu pořadů ČT v digitálním světě"/>
-	<event dateTime="2018-07-30T14:00:00" duration="90" venue="Dětský/herní stan" name="Divadlo Koráb Brno: Dlouhý, Široký a Bystrozraký"/>
-	<event dateTime="2018-07-30T14:00:00" duration="176" venue="Klub kultury 1" name="Nahý"/>
-	<event dateTime="2018-07-30T14:00:00" duration="91" venue="Kino Mír" name="Hosté večeře Páně"/>
-	<event dateTime="2018-07-30T14:30:00" duration="92" venue="Kino Hvězda" name="Strašidelný zámek (Hudba: VyjakoMy)"/>
-	<event dateTime="2018-07-30T14:30:00" duration="120" venue="Reduta 1" name="Můj otec George Voskovec"/>
-	<event dateTime="2018-07-30T15:00:00" duration="164" venue="Sportovní hala" name="Domestik"/>
-	<event dateTime="2018-07-30T15:30:00" duration="90" venue="Klub kultury 2" name="Lekce filmu podle Alejandra Fernándeze Almendrase"/>
-	<event dateTime="2018-07-30T15:45:00" duration="120" venue="Dětský/herní stan" name="Malování na obličej"/>
-	<event dateTime="2018-07-30T16:00:00" duration="30" venue="Knihovna Bedřicha Beneše Buchlovana" name="Po-lin. Židé v republice mnoha národů"/>
-	<event dateTime="2018-07-30T16:00:00" duration="45" venue="Divadelní/literární stan" name="Zuzana Kopečková: Strážce mýtů"/>
-	<event dateTime="2018-07-30T16:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 3"/>
-	<event dateTime="2018-07-30T16:00:00" duration="90" venue="Stan ČT" name="Cesta filmaře"/>
-	<event dateTime="2018-07-30T16:00:00" duration="65" venue="Respekt stan" name="ÍRÁN:CI, program krátkých filmů"/>
-	<event dateTime="2018-07-30T17:00:00" duration="60" venue="Divadelní/literární stan" name="Tereza Brdečková: Hodinka s Tajemstvím hradu v Karpatech"/>
-	<event dateTime="2018-07-30T17:00:00" duration="105" venue="Kino Mír" name="Hardcore"/>
-	<event dateTime="2018-07-30T17:00:00" duration="179" venue="Slovácké divadlo" name="Scény z manželského života"/>
-	<event dateTime="2018-07-30T17:00:00" duration="107" venue="Kino Hvězda" name="Tichá noc"/>
-	<event dateTime="2018-07-30T17:30:00" duration="150" venue="Klub kultury 1" name="Městečko Twin Peaks (Ep. 1, Ep. 2)"/>
-	<event dateTime="2018-07-30T17:30:00" duration="62" venue="Reduta 1" name="Byl jsem obviněn"/>
-	<event dateTime="2018-07-30T17:30:00" duration="81" venue="Dětský/herní stan" name="Filmová pohádka – Princezna a písař"/>
-	<event dateTime="2018-07-30T17:30:00" duration="90" venue="Klub kultury 2" name="100 let českých dějin, 100 let jejich filmových obrazů"/>
-	<event dateTime="2018-07-30T18:00:00" duration="90" venue="Stan ČT" name="Dukla 61"/>
-	<event dateTime="2018-07-30T18:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 4"/>
-	<event dateTime="2018-07-30T18:00:00" duration="124" venue="Sportovní hala" name="Odborný dohled nad výkladem snu"/>
-	<event dateTime="2018-07-30T18:15:00" duration="45" venue="Divadelní/literární stan" name="Časopis Kapitál (SK) - filmová a feministická sekce"/>
-	<event dateTime="2018-07-30T19:15:00" duration="45" venue="Divadelní/literární stan" name="Mirka Ábelová (SK)"/>
-	<event dateTime="2018-07-30T19:30:00" duration="205" venue="Kino Hvězda" name="Páté přes deváté"/>
-	<event dateTime="2018-07-30T20:00:00" duration="180" venue="Divadelní/literární stan" name="Horňácká cimbálová muzika Petra Mičky"/>
-	<event dateTime="2018-07-30T20:00:00" duration="120" venue="Dětský/herní stan" name="Chytrý kvíz"/>
-	<event dateTime="2018-07-30T20:00:00" duration="85" venue="Stan ČT" name="Sedm žen Alfonse Karáska"/>
-	<event dateTime="2018-07-30T20:00:00" duration="85" venue="Stan ČT" name="Alfons Karásek v lázních"/>
-	<event dateTime="2018-07-30T20:30:00" duration="114" venue="Reduta 1" name="Prvek zločinu"/>
-	<event dateTime="2018-07-30T20:30:00" duration="101" venue="Slovácké divadlo" name="Tvář"/>
-	<event dateTime="2018-07-30T21:00:00" duration="90" venue="Klub Mír" name="Zvíře jménem Podzim"/>
-	<event dateTime="2018-07-30T21:00:00" duration="10" venue="Klub kultury 1" name="Chůze a běhy"/>
-	<event dateTime="2018-07-30T21:00:00" duration="122" venue="Klub kultury 1" name="Chata na prodej"/>
-	<event dateTime="2018-07-30T21:30:00" duration="110" venue="Sportovní hala" name="Hříšný tanec"/>
-	<event dateTime="2018-07-30T21:30:00" duration="101" venue="Letní kino Smetanovy sady" name="Ruka"/>
-	<event dateTime="2018-07-30T21:30:00" duration="101" venue="Letní kino Smetanovy sady" name="Práče"/>
-	<event dateTime="2018-07-30T22:00:00" duration="40" venue="innogy letní kino Masarykovo nám." name="Stavitel chrámu"/>
-	<event dateTime="2018-07-30T22:30:00" duration="120" venue="Klub Mír" name="DJ Tropicalista y Gadjo.cz (Radio 1)"/>
-	<event dateTime="2018-07-30T23:00:00" duration="30" venue="Respekt stan" name="Horor Planet Dark III"/>
-	<event dateTime="2018-07-30T23:00:00" duration="115" venue="innogy letní kino Masarykovo nám." name="Zahradnictví: Dezertér"/>
-	<event dateTime="2018-07-30T23:30:00" duration="88" venue="Slovácké divadlo" name="Srdce lásky"/>
-	<event dateTime="2018-07-30T23:30:00" duration="107" venue="Kino Hvězda" name="Attenberg"/>
-	<event dateTime="2018-07-30T23:30:00" duration="100" venue="Reduta 1" name="Archa světel a stínů"/>
-	<event dateTime="2018-07-30T23:59:00" duration="100" venue="Sportovní hala" name="Dům plný strachu"/>
-	<event dateTime="2018-07-31T08:30:00" duration="114" venue="Slovácké divadlo" name="Na krátko"/>
-	<event dateTime="2018-07-31T09:00:00" duration="100" venue="Klub kultury 1" name="Hodina vlků"/>
-	<event dateTime="2018-07-31T09:00:00" duration="100" venue="Reduta 1" name="Huacho"/>
-	<event dateTime="2018-07-31T09:30:00" duration="126" venue="Sportovní hala" name="Hairspray"/>
-	<event dateTime="2018-07-31T10:00:00" duration="180" venue="Dětský/herní stan" name="Free Cinema uvádí: workshop Natáčecí den + krátké filmy Free Cinema Films"/>
-	<event dateTime="2018-07-31T10:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 1"/>
-	<event dateTime="2018-07-31T11:00:00" duration="30" venue="Klub kultury 2" name="Jak si usnadnit natáčení ve Zlínském kraji aneb Neformální povídání se zlínskou filmovou kanceláří"/>
-	<event dateTime="2018-07-31T11:00:00" duration="106" venue="Kino Hvězda" name="Dvanáct rozhněvaných mužů"/>
-	<event dateTime="2018-07-31T11:00:00" duration="129" venue="Slovácké divadlo" name="Universum Brdečka"/>
-	<event dateTime="2018-07-31T11:30:00" duration="101" venue="Kino Mír" name="Šepoty a výkřiky"/>
-	<event dateTime="2018-07-31T11:30:00" duration="185" venue="Klub kultury 1" name="Riga (poprvé)"/>
-	<event dateTime="2018-07-31T11:30:00" duration="105" venue="Reduta 1" name="CinEd uvádí: Modrý tygr"/>
-	<event dateTime="2018-07-31T12:00:00" duration="127" venue="Sportovní hala" name="Není nad showbyznys"/>
-	<event dateTime="2018-07-31T12:00:00" duration="90" venue="Stan ČT" name="What's the Buzz"/>
-	<event dateTime="2018-07-31T12:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 2"/>
-	<event dateTime="2018-07-31T13:00:00" duration="90" venue="Respekt stan" name="Inventura slovenského filmu"/>
-	<event dateTime="2018-07-31T13:15:00" duration="45" venue="Cafe 21" name="Modré tygrování – hrátky s filmem"/>
-	<event dateTime="2018-07-31T13:30:00" duration="150" venue="Masarykovo náměstí" name="Location tour pro filmové profesionály: Poznejte nová místa v Uherském Hradišti"/>
-	<event dateTime="2018-07-31T14:00:00" duration="90" venue="Dětský/herní stan" name="Workshop Tvarovací balónky"/>
-	<event dateTime="2018-07-31T14:00:00" duration="113" venue="Kino Mír" name="Poznamenaní"/>
-	<event dateTime="2018-07-31T14:15:00" duration="150" venue="Klub kultury 2" name="CinEd a LFŠ uvádějí: Jak pracovat s Modrým tygrem ve školách a na školních projekcích"/>
-	<event dateTime="2018-07-31T14:30:00" duration="114" venue="Slovácké divadlo" name="Ze života loutek"/>
-	<event dateTime="2018-07-31T14:30:00" duration="109" venue="Kino Hvězda" name="Hořící důl (Hudba: Jiří Hes + Robert Rajs)"/>
-	<event dateTime="2018-07-31T15:00:00" duration="158" venue="Klub kultury 1" name="Tlumočník"/>
-	<event dateTime="2018-07-31T15:00:00" duration="78" venue="Reduta 1" name="Očištění"/>
-	<event dateTime="2018-07-31T15:30:00" duration="105" venue="Sportovní hala" name="Limonádový Joe aneb Koňská opera"/>
-	<event dateTime="2018-07-31T15:30:00" duration="90" venue="Respekt stan" name="Podoby a nástroje filmové a mediální propagandy v dobách studené války i v současnosti"/>
-	<event dateTime="2018-07-31T15:45:00" duration="120" venue="Dětský/herní stan" name="Malování hennou"/>
-	<event dateTime="2018-07-31T16:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 3"/>
-	<event dateTime="2018-07-31T16:00:00" duration="90" venue="Stan ČT" name="Metanol"/>
-	<event dateTime="2018-07-31T17:00:00" duration="112" venue="Slovácké divadlo" name="Tranzit"/>
-	<event dateTime="2018-07-31T17:00:00" duration="133" venue="Kino Hvězda" name="All That Jazz"/>
-	<event dateTime="2018-07-31T17:30:00" duration="90" venue="Klub kultury 1" name="Lásky jedné plavovlásky"/>
-	<event dateTime="2018-07-31T17:30:00" duration="60" venue="Dětský/herní stan" name="Večerníčky pro pěkný večer: Nové nej…"/>
-	<event dateTime="2018-07-31T17:30:00" duration="90" venue="Klub kultury 2" name="Americká léta Jiřího Voskovce"/>
-	<event dateTime="2018-07-31T17:30:00" duration="70" venue="Reduta 1" name="Bergman a divadlo"/>
-	<event dateTime="2018-07-31T17:30:00" duration="68" venue="Reduta 1" name="Bergman a film"/>
-	<event dateTime="2018-07-31T18:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 4"/>
-	<event dateTime="2018-07-31T18:00:00" duration="90" venue="Stan ČT" name="Televize pro teenagery: nesmysl, že? Od Dylana po Lenu Dunham a zpět"/>
-	<event dateTime="2018-07-31T18:00:00" duration="131" venue="Respekt stan" name="Aluna"/>
-	<event dateTime="2018-07-31T18:00:00" duration="134" venue="Sportovní hala" name="Mečiar"/>
-	<event dateTime="2018-07-31T19:00:00" duration="150" venue="Park Rochus" name="Záhadná jízda králů"/>
-	<event dateTime="2018-07-31T19:00:00" duration="90" venue="Divadelní/literární stan" name="Divadlo Husa na provázku: Zkušebna"/>
-	<event dateTime="2018-07-31T19:30:00" duration="120" venue="Dětský/herní stan" name="Večer deskových her s Mindok"/>
-	<event dateTime="2018-07-31T20:00:00" duration="45" venue="Klub Mír" name="Siegfried – One Man Show"/>
-	<event dateTime="2018-07-31T20:00:00" duration="39" venue="Kino Hvězda" name="Slavnost osamělé palmy"/>
-	<event dateTime="2018-07-31T20:00:00" duration="7" venue="Kino Hvězda" name="Svatá Jana"/>
-	<event dateTime="2018-07-31T20:00:00" duration="132" venue="Kino Hvězda" name="Slavnost v botanické zahradě"/>
-	<event dateTime="2018-07-31T20:00:00" duration="75" venue="Stan ČT" name="Autorevue"/>
-	<event dateTime="2018-07-31T20:00:00" duration="75" venue="Stan ČT" name="Revue pro následníka trůnu"/>
-	<event dateTime="2018-07-31T20:30:00" duration="60" venue="Reduta 1" name="Nico naživo"/>
-	<event dateTime="2018-07-31T20:30:00" duration="187" venue="Slovácké divadlo" name="Tajnosti a lži"/>
-	<event dateTime="2018-07-31T21:00:00" duration="130" venue="Klub kultury 1" name="Všechno bude"/>
-	<event dateTime="2018-07-31T21:00:00" duration="90" venue="Klub Mír" name="Katarzia (SK)"/>
-	<event dateTime="2018-07-31T21:30:00" duration="110" venue="Letní kino Smetanovy sady" name="Čintamani &amp; podvodník"/>
-	<event dateTime="2018-07-31T21:30:00" duration="101" venue="Sportovní hala" name="Lesní jahody"/>
-	<event dateTime="2018-07-31T21:45:00" duration="93" venue="Reduta 1" name="Nico, 1988"/>
-	<event dateTime="2018-07-31T22:00:00" duration="113" venue="innogy letní kino Masarykovo nám." name="Zahradnictví: Nápadník"/>
-	<event dateTime="2018-07-31T22:30:00" duration="120" venue="Klub Mír" name="DJ Jeffology"/>
-	<event dateTime="2018-07-31T23:00:00" duration="30" venue="Respekt stan" name="Horor Planet Dark IV"/>
-	<event dateTime="2018-07-31T23:30:00" duration="110" venue="Kino Hvězda" name="Zmařené mládí"/>
-	<event dateTime="2018-07-31T23:59:00" duration="128" venue="Reduta 1" name="Na jezeře (Ep. 1, Ep. 2)"/>
-	<event dateTime="2018-07-31T23:59:00" duration="106" venue="Slovácké divadlo" name="Kolekce oscarových krátkých filmů"/>
-	<event dateTime="2018-07-31T23:59:00" duration="13" venue="Sportovní hala" name="Videodivers"/>
-	<event dateTime="2018-07-31T23:59:00" duration="92" venue="Sportovní hala" name="Záhrobní komando"/>
-	<event dateTime="2018-08-01T08:30:00" duration="123" venue="Slovácké divadlo" name="Chicago"/>
-	<event dateTime="2018-08-01T08:30:00" duration="109" venue="Kino Hvězda" name="Jeden den"/>
-	<event dateTime="2018-08-01T09:00:00" duration="121" venue="Reduta 1" name="Strella"/>
-	<event dateTime="2018-08-01T09:00:00" duration="75" venue="Klub kultury 1" name="Až přijde válka"/>
-	<event dateTime="2018-08-01T09:30:00" duration="108" venue="Sportovní hala" name="Bravados"/>
-	<event dateTime="2018-08-01T10:00:00" duration="120" venue="Klub kultury 2" name="Filmové dílny jinak!"/>
-	<event dateTime="2018-08-01T10:00:00" duration="120" venue="Dětský/herní stan" name="Dílna pixilace"/>
-	<event dateTime="2018-08-01T10:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 1"/>
-	<event dateTime="2018-08-01T10:30:00" duration="131" venue="Kino Hvězda" name="S tváří dítěte"/>
-	<event dateTime="2018-08-01T11:00:00" duration="180" venue="Slovácké divadlo" name="Strom na dřeváky"/>
-	<event dateTime="2018-08-01T11:00:00" duration="90" venue="Respekt stan" name="Lekce filmu podle Meira Lubora Dohnala"/>
-	<event dateTime="2018-08-01T11:30:00" duration="145" venue="Klub kultury 1" name="„Pane, vy jste vdova!“"/>
-	<event dateTime="2018-08-01T11:30:00" duration="107" venue="Reduta 1" name="A pátý jezdec je Strach"/>
-	<event dateTime="2018-08-01T11:30:00" duration="110" venue="Kino Mír" name="Tvář"/>
-	<event dateTime="2018-08-01T12:00:00" duration="85" venue="Sportovní hala" name="27. den"/>
-	<event dateTime="2018-08-01T12:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 2"/>
-	<event dateTime="2018-08-01T13:30:00" duration="180" venue="Reduta 3" name="Od brýlí z kartonu k tvorbě vlastní virtuální reality (dílna)"/>
-	<event dateTime="2018-08-01T14:00:00" duration="90" venue="Dětský/herní stan" name="Divadlo Koráb Brno: O Budulínkovi"/>
-	<event dateTime="2018-08-01T14:00:00" duration="60" venue="Respekt stan" name="Marek Bláha a jak na hudbu v hudebních filmech a reklamách"/>
-	<event dateTime="2018-08-01T14:00:00" duration="91" venue="Kino Mír" name="Vystavení"/>
-	<event dateTime="2018-08-01T14:30:00" duration="130" venue="Slovácké divadlo" name="Tady a teď  (Ep. 1, Ep. 2)"/>
-	<event dateTime="2018-08-01T14:30:00" duration="100" venue="Kino Hvězda" name="Poslední štace (Hudba: CASIO LOYAL)"/>
-	<event dateTime="2018-08-01T14:30:00" duration="110" venue="Stan UTB" name="Čerstvě sklizeno!"/>
-	<event dateTime="2018-08-01T15:00:00" duration="143" venue="Klub kultury 1" name="Hmyz"/>
-	<event dateTime="2018-08-01T15:00:00" duration="132" venue="Reduta 1" name="Můj syn John"/>
-	<event dateTime="2018-08-01T15:30:00" duration="88" venue="Sportovní hala" name="Bouřlivé počasí"/>
-	<event dateTime="2018-08-01T15:30:00" duration="90" venue="Respekt stan" name="Lekce filmu podle Ivy Janžurové"/>
-	<event dateTime="2018-08-01T15:30:00" duration="90" venue="Klub kultury 2" name="30 let s Ingmarem Bergmanem"/>
-	<event dateTime="2018-08-01T15:45:00" duration="60" venue="Dětský/herní stan" name="Výtvarný workshop Stopy v džungli"/>
-	<event dateTime="2018-08-01T16:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 3"/>
-	<event dateTime="2018-08-01T16:45:00" duration="120" venue="Stan UTB" name="Best of 20 let audiovize"/>
-	<event dateTime="2018-08-01T17:00:00" duration="113" venue="Kino Hvězda" name="Doba nevěrná"/>
-	<event dateTime="2018-08-01T17:00:00" duration="108" venue="Kino Mír" name="Strýček Váňa"/>
-	<event dateTime="2018-08-01T17:00:00" duration="97" venue="Dětský/herní stan" name="Filmová pohádka – Svatojánský věneček"/>
-	<event dateTime="2018-08-01T17:00:00" duration="60" venue="Reduta 3" name="Vyrob si vlastní hologram a laternu magiku (dílna)"/>
-	<event dateTime="2018-08-01T17:30:00" duration="90" venue="Klub kultury 2" name="Brave New VR Worlds: Od televizních brýlí k hologramům"/>
-	<event dateTime="2018-08-01T17:30:00" duration="113" venue="Slovácké divadlo" name="Zpívání v dešti"/>
-	<event dateTime="2018-08-01T17:30:00" duration="161" venue="Reduta 1" name="Jarní povětří"/>
-	<event dateTime="2018-08-01T17:30:00" duration="120" venue="Klub kultury 1" name="Nejlepší"/>
-	<event dateTime="2018-08-01T17:30:00" duration="75" venue="Respekt stan" name="Rumunsko a kde je Drákula?, program krátkých filmů"/>
-	<event dateTime="2018-08-01T18:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 4"/>
-	<event dateTime="2018-08-01T18:00:00" duration="96" venue="Sportovní hala" name="Persona"/>
-	<event dateTime="2018-08-01T19:00:00" duration="120" venue="Respekt stan" name="Kde se berou staré filmy a kde končí ty současné"/>
-	<event dateTime="2018-08-01T19:00:00" duration="15" venue="Stan UTB" name="20 let AAV - slavnostní přípitek"/>
-	<event dateTime="2018-08-01T19:30:00" duration="120" venue="Stan UTB" name="Batalives"/>
-	<event dateTime="2018-08-01T20:00:00" duration="60" venue="Galerie slováckých vín" name="Pramítačka: živá filmová performance"/>
-	<event dateTime="2018-08-01T20:00:00" duration="180" venue="Divadelní/literární stan" name="Cimbálová muzika Vinár"/>
-	<event dateTime="2018-08-01T20:00:00" duration="120" venue="Dětský/herní stan" name="Chytrý kvíz"/>
-	<event dateTime="2018-08-01T20:30:00" duration="103" venue="Kino Hvězda" name="Petrolejové lampy"/>
-	<event dateTime="2018-08-01T20:30:00" duration="131" venue="Slovácké divadlo" name="Přimhuř oči"/>
-	<event dateTime="2018-08-01T20:30:00" duration="170" venue="Reduta 1" name="Vera Drake - Žena dvou tváří"/>
-	<event dateTime="2018-08-01T21:00:00" duration="131" venue="Klub kultury 1" name="Vlasy"/>
-	<event dateTime="2018-08-01T21:00:00" duration="90" venue="Klub Mír" name="Mucha"/>
-	<event dateTime="2018-08-01T21:00:00" duration="125" venue="Stan UTB" name="Přeostřeno"/>
-	<event dateTime="2018-08-01T21:30:00" duration="137" venue="SOŠG" name="Nic jako dřív"/>
-	<event dateTime="2018-08-01T21:30:00" duration="135" venue="Sportovní hala" name="Mrtvý bod"/>
-	<event dateTime="2018-08-01T21:30:00" duration="103" venue="Letní kino Smetanovy sady" name="Kladivo na čarodějnice"/>
-	<event dateTime="2018-08-01T22:00:00" duration="90" venue="innogy letní kino Masarykovo nám." name="Backstage"/>
-	<event dateTime="2018-08-01T22:30:00" duration="120" venue="Klub Mír" name="Lunchmeat presents 1LFF &amp; Two Pixels Above live"/>
-	<event dateTime="2018-08-01T23:00:00" duration="30" venue="Respekt stan" name="Horor Planet Dark V"/>
-	<event dateTime="2018-08-01T23:30:00" duration="120" venue="Stan UTB" name="Au_Dio_Vize Party"/>
-	<event dateTime="2018-08-01T23:30:00" duration="140" venue="Reduta 1" name="Fígle"/>
-	<event dateTime="2018-08-01T23:30:00" duration="118" venue="Slovácké divadlo" name="Úsměvy letní noci"/>
-	<event dateTime="2018-08-01T23:30:00" duration="145" venue="Kino Hvězda" name="Smrt si říká Engelchen"/>
-	<event dateTime="2018-08-01T23:59:00" duration="113" venue="Sportovní hala" name="Smrtící přitažlivost"/>
-	<event dateTime="2018-08-02T08:30:00" duration="107" venue="Kino Hvězda" name="Sedmá pečeť"/>
-	<event dateTime="2018-08-02T09:00:00" duration="106" venue="Reduta 1" name="Špičák"/>
-	<event dateTime="2018-08-02T09:00:00" duration="130" venue="Klub kultury 1" name="Všechno bude"/>
-	<event dateTime="2018-08-02T09:00:00" duration="90" venue="Dětský/herní stan" name="Workshop s pejsky"/>
-	<event dateTime="2018-08-02T09:30:00" duration="185" venue="Sportovní hala" name="Riga (poprvé)"/>
-	<event dateTime="2018-08-02T10:00:00" duration="120" venue="Klub kultury 2" name="Na film do muzea: filmová výchova s interaktivními exponáty"/>
-	<event dateTime="2018-08-02T10:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 1"/>
-	<event dateTime="2018-08-02T10:30:00" duration="90" venue="Dětský/herní stan" name="Divadelní herectví – workshop pro děti"/>
-	<event dateTime="2018-08-02T11:00:00" duration="80" venue="Kino Hvězda" name="Smuteční slavnost"/>
-	<event dateTime="2018-08-02T11:00:00" duration="184" venue="Klub kultury 1" name="Dogville test"/>
-	<event dateTime="2018-08-02T11:00:00" duration="229" venue="Klub kultury 1" name="Dogville"/>
-	<event dateTime="2018-08-02T11:30:00" duration="145" venue="Reduta 1" name="Výlet"/>
-	<event dateTime="2018-08-02T11:30:00" duration="106" venue="Kino Mír" name="Mlčení"/>
-	<event dateTime="2018-08-02T12:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 2"/>
-	<event dateTime="2018-08-02T13:00:00" duration="129" venue="Sportovní hala" name="Supermarket"/>
-	<event dateTime="2018-08-02T13:30:00" duration="90" venue="Reduta 3" name="Buď VJ: Videomapping a živá animace v prostoru (dílna)"/>
-	<event dateTime="2018-08-02T13:30:00" duration="90" venue="Klub kultury 2" name="Filmová studená válka"/>
-	<event dateTime="2018-08-02T14:00:00" duration="90" venue="Dětský/herní stan" name="Bublinový workshop"/>
-	<event dateTime="2018-08-02T14:00:00" duration="43" venue="Kino Mír" name="Filmy Jana Kříženeckého"/>
-	<event dateTime="2018-08-02T14:30:00" duration="151" venue="Reduta 1" name="Já, Kuba"/>
-	<event dateTime="2018-08-02T14:30:00" duration="92" venue="Kino Hvězda" name="Tabu (Hudba: Ångström)"/>
-	<event dateTime="2018-08-02T15:00:00" duration="125" venue="Klub kultury 1" name="Cirkus Rwanda"/>
-	<event dateTime="2018-08-02T15:30:00" duration="112" venue="Sportovní hala" name="Sedm nevěst pro sedm bratrů"/>
-	<event dateTime="2018-08-02T15:30:00" duration="90" venue="Dětský/herní stan" name="Free Cinema uvádí: Flipbook dílna"/>
-	<event dateTime="2018-08-02T15:30:00" duration="90" venue="Reduta 3" name="Alchymie filmového materiálu: Střihej, zakládej, promítej!"/>
-	<event dateTime="2018-08-02T15:30:00" duration="75" venue="Divadelní/literární stan" name="Ingmar Bergman: Nevěra"/>
-	<event dateTime="2018-08-02T15:30:00" duration="90" venue="Klub kultury 2" name="TV jak ji neznáte aneb od filmu k televizi a zase zpátky II"/>
-	<event dateTime="2018-08-02T16:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 3"/>
-	<event dateTime="2018-08-02T17:00:00" duration="105" venue="Kino Hvězda" name="A dýchejte klidně"/>
-	<event dateTime="2018-08-02T17:00:00" duration="60" venue="Dětský/herní stan" name="Večerníčky pro pěkný večer: Nové nej…"/>
-	<event dateTime="2018-08-02T17:00:00" duration="114" venue="Kino Mír" name="Ze života loutek"/>
-	<event dateTime="2018-08-02T17:30:00" duration="145" venue="Klub kultury 1" name="Hastrman"/>
-	<event dateTime="2018-08-02T17:30:00" duration="137" venue="Reduta 1" name="S láskou k vlasti nejdál dojdeš"/>
-	<event dateTime="2018-08-02T17:30:00" duration="90" venue="Klub kultury 2" name="Lekce filmu podle Andrzeje Jakimowského a Ewy Jakimowské"/>
-	<event dateTime="2018-08-02T17:30:00" duration="90" venue="Respekt stan" name="Vypadat jako film – HBO v kontextu quality TV"/>
-	<event dateTime="2018-08-02T18:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 4"/>
-	<event dateTime="2018-08-02T18:00:00" duration="190" venue="Sportovní hala" name="Nymfomanka, část I. (Director´s cut)"/>
-	<event dateTime="2018-08-02T18:15:00" duration="75" venue="Divadelní/literární stan" name="Současná slovenská poezie: Ivan Štrpka, Eva Tomkuliaková, Michal Habal, Katarína Kucbelová, Michal Tallo"/>
-	<event dateTime="2018-08-02T19:00:00" duration="70" venue="Slovácké divadlo" name="Cirk La Putyka: Slapstick Sonata"/>
-	<event dateTime="2018-08-02T19:00:00" duration="60" venue="Divadelní/literární stan" name="Záviš"/>
-	<event dateTime="2018-08-02T19:30:00" duration="120" venue="Dětský/herní stan" name="Večer deskových her s Mindok"/>
-	<event dateTime="2018-08-02T20:00:00" duration="135" venue="Respekt stan" name="Slam poetry exhibice"/>
-	<event dateTime="2018-08-02T20:30:00" duration="158" venue="Reduta 1" name="Happy-Go-Lucky"/>
-	<event dateTime="2018-08-02T20:30:00" duration="120" venue="Kino Hvězda" name="Na Chesilské pláži"/>
-	<event dateTime="2018-08-02T21:00:00" duration="60" venue="Klub Mír" name="Radio 1 uvádí: PRIS"/>
-	<event dateTime="2018-08-02T21:30:00" duration="160" venue="Klub kultury 1" name="Létající ďáblové"/>
-	<event dateTime="2018-08-02T21:30:00" duration="115" venue="Sportovní hala" name="Drazí běloši (Ep. 1, Ep. 2, Ep. 3)"/>
-	<event dateTime="2018-08-02T21:30:00" duration="84" venue="Letní kino Smetanovy sady" name="Možnosti dialogu"/>
-	<event dateTime="2018-08-02T21:30:00" duration="84" venue="Letní kino Smetanovy sady" name="Čarodějův učeň"/>
-	<event dateTime="2018-08-02T22:00:00" duration="93" venue="innogy letní kino Masarykovo nám." name="Projekt Babička"/>
-	<event dateTime="2018-08-02T22:00:00" duration="120" venue="Klub Mír" name="DJ Tomino &amp; Myslivec"/>
-	<event dateTime="2018-08-02T23:00:00" duration="180" venue="Divadelní/literární stan" name="Cimbálová muzika Kremlor"/>
-	<event dateTime="2018-08-02T23:00:00" duration="30" venue="Respekt stan" name="Horor Planet Dark VI"/>
-	<event dateTime="2018-08-02T23:30:00" duration="110" venue="Kino Hvězda" name="Rocky Horror Picture Show"/>
-	<event dateTime="2018-08-02T23:59:00" duration="104" venue="Sportovní hala" name="Vrah zůstal po škole"/>
-	<event dateTime="2018-08-02T23:59:00" duration="83" venue="Reduta 1" name="Hrdina má strach"/>
-	<event dateTime="2018-08-03T08:30:00" duration="101" venue="Kino Hvězda" name="Lesní jahody"/>
-	<event dateTime="2018-08-03T09:00:00" duration="110" venue="Reduta 1" name="Hříšný tanec"/>
-	<event dateTime="2018-08-03T09:00:00" duration="123" venue="Klub kultury 1" name="Tlumočník"/>
-	<event dateTime="2018-08-03T09:00:00" duration="90" venue="Dětský/herní stan" name="Divadelní herectví – workshop pro děti"/>
-	<event dateTime="2018-08-03T09:30:00" duration="120" venue="Sportovní hala" name="Donbas"/>
-	<event dateTime="2018-08-03T10:00:00" duration="105" venue="Slovácké divadlo" name="Cirk La Putyka: Biograf"/>
-	<event dateTime="2018-08-03T10:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 1"/>
-	<event dateTime="2018-08-03T11:00:00" duration="90" venue="Kino Hvězda" name="Lekce filmu podle Mikea Leigha"/>
-	<event dateTime="2018-08-03T11:30:00" duration="225" venue="Klub kultury 1" name="Nymfomanka, část II. (Director´s cut)"/>
-	<event dateTime="2018-08-03T11:30:00" duration="120" venue="Kino Mír" name="The Broadway Melody"/>
-	<event dateTime="2018-08-03T11:30:00" duration="109" venue="Reduta 1" name="Podzimní sonáta"/>
-	<event dateTime="2018-08-03T12:00:00" duration="90" venue="Sportovní hala" name="Roland Klick: Srdce je hladový lovec"/>
-	<event dateTime="2018-08-03T12:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 2"/>
-	<event dateTime="2018-08-03T14:00:00" duration="60" venue="Dětský/herní stan" name="Výtvarný workshop - Origami ptáci (hýbací i létací)"/>
-	<event dateTime="2018-08-03T14:00:00" duration="150" venue="Slovácké divadlo" name="Imagine"/>
-	<event dateTime="2018-08-03T14:00:00" duration="99" venue="Kino Mír" name="Alpy"/>
-	<event dateTime="2018-08-03T14:30:00" duration="117" venue="Kino Hvězda" name="Faust (Hudba: Metronome Blues)"/>
-	<event dateTime="2018-08-03T14:30:00" duration="137" venue="Reduta 1" name="Škytavka"/>
-	<event dateTime="2018-08-03T14:30:00" duration="174" venue="Sportovní hala" name="Další rok"/>
-	<event dateTime="2018-08-03T15:00:00" duration="90" venue="Dětský/herní stan" name="Spontánní tanec pro děti"/>
-	<event dateTime="2018-08-03T15:30:00" duration="90" venue="Klub kultury 2" name="Podoby studené války v československé kinematografii"/>
-	<event dateTime="2018-08-03T15:30:00" duration="100" venue="Klub kultury 1" name="Hodina vlků"/>
-	<event dateTime="2018-08-03T16:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 3"/>
-	<event dateTime="2018-08-03T17:00:00" duration="97" venue="Dětský/herní stan" name="Filmová pohádka – Nejlepší přítel"/>
-	<event dateTime="2018-08-03T17:00:00" duration="145" venue="Reduta 1" name="Kouzelná flétna"/>
-	<event dateTime="2018-08-03T17:00:00" duration="106" venue="Kino Mír" name="Zlatokopové z roku 1933"/>
-	<event dateTime="2018-08-03T17:00:00" duration="151" venue="Slovácké divadlo" name="Archa bláznů aneb Vyprávění z konce života"/>
-	<event dateTime="2018-08-03T17:30:00" duration="103" venue="Kino Hvězda" name="Noc požírá svět"/>
-	<event dateTime="2018-08-03T17:30:00" duration="90" venue="Klub kultury 2" name="Lekce filmu podle Anderse Refna"/>
-	<event dateTime="2018-08-03T17:30:00" duration="150" venue="Klub kultury 1" name="Malá"/>
-	<event dateTime="2018-08-03T17:30:00" duration="148" venue="Klub kultury 1" name="Chvilky"/>
-	<event dateTime="2018-08-03T18:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 4"/>
-	<event dateTime="2018-08-03T18:00:00" duration="120" venue="Sportovní hala" name="Top Gun"/>
-	<event dateTime="2018-08-03T19:00:00" duration="45" venue="Divadelní/literární stan" name="Michaela Raisová a Jana Novorytová: Částečné znejistění"/>
-	<event dateTime="2018-08-03T20:00:00" duration="120" venue="Dětský/herní stan" name="Chytrý kvíz"/>
-	<event dateTime="2018-08-03T20:00:00" duration="194" venue="Kino Hvězda" name="Mr. Turner"/>
-	<event dateTime="2018-08-03T20:15:00" duration="148" venue="Sportovní hala" name="Vysoká modrá zeď"/>
-	<event dateTime="2018-08-03T20:30:00" duration="133" venue="Slovácké divadlo" name="Tenkrát v listopadu"/>
-	<event dateTime="2018-08-03T20:30:00" duration="118" venue="Letecké muzeum v Kunovicích" name="The Nagano Tapes"/>
-	<event dateTime="2018-08-03T20:30:00" duration="126" venue="Klub kultury 1" name="Planeta Česko"/>
-	<event dateTime="2018-08-03T21:00:00" duration="60" venue="Reduta 1" name="Epoque Quartet"/>
-	<event dateTime="2018-08-03T21:00:00" duration="180" venue="Divadelní/literární stan" name="Folklórní večer"/>
-	<event dateTime="2018-08-03T21:30:00" duration="120" venue="Letní kino Smetanovy sady" name="Dědictví aneb Kurvahošigutntag"/>
-	<event dateTime="2018-08-03T22:00:00" duration="111" venue="innogy letní kino Masarykovo nám." name="Po strništi bos"/>
-	<event dateTime="2018-08-03T22:00:00" duration="120" venue="Klub Mír" name="Bassta Fidli Crew"/>
-	<event dateTime="2018-08-03T23:00:00" duration="30" venue="Respekt stan" name="Horor Planet Dark VII"/>
-	<event dateTime="2018-08-03T23:30:00" duration="109" venue="Slovácké divadlo" name="Miss Violence"/>
-	<event dateTime="2018-08-03T23:59:00" duration="140" venue="Kino Hvězda" name="Milada"/>
-	<event dateTime="2018-08-03T23:59:00" duration="62" venue="Reduta 1" name="Byl jsem obviněn"/>
-	<event dateTime="2018-08-03T23:59:00" duration="93" venue="innogy letní kino Masarykovo nám." name="Nico, 1988"/>
-	<event dateTime="2018-08-03T23:59:00" duration="111" venue="Sportovní hala" name="Videodivers"/>
-	<event dateTime="2018-08-03T23:59:00" duration="101" venue="Sportovní hala" name="Útok na věžák"/>
-	<event dateTime="2018-08-04T08:30:00" duration="115" venue="Kino Hvězda" name="Profil"/>
-	<event dateTime="2018-08-04T08:30:00" duration="114" venue="Slovácké divadlo" name="Polární záře"/>
-	<event dateTime="2018-08-04T09:00:00" duration="127" venue="Reduta 1" name="Není nad showbyznys"/>
-	<event dateTime="2018-08-04T09:00:00" duration="96" venue="Klub kultury 1" name="Persona"/>
-	<event dateTime="2018-08-04T09:00:00" duration="60" venue="Dětský/herní stan" name="Výroba filmových plakátů"/>
-	<event dateTime="2018-08-04T09:30:00" duration="89" venue="Sportovní hala" name="Odborný dohled nad výkladem snu"/>
-	<event dateTime="2018-08-04T10:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 1"/>
-	<event dateTime="2018-08-04T10:30:00" duration="90" venue="Dětský/herní stan" name="Divadelní herectví – workshop pro děti"/>
-	<event dateTime="2018-08-04T11:00:00" duration="97" venue="Kino Hvězda" name="L"/>
-	<event dateTime="2018-08-04T11:00:00" duration="116" venue="Slovácké divadlo" name="Věž. Jasný den."/>
-	<event dateTime="2018-08-04T11:30:00" duration="103" venue="Kino Mír" name="Nico, 1988"/>
-	<event dateTime="2018-08-04T11:30:00" duration="138" venue="Klub kultury 1" name="Kvarteto"/>
-	<event dateTime="2018-08-04T11:30:00" duration="113" venue="Reduta 1" name="Svět valčíků"/>
-	<event dateTime="2018-08-04T12:00:00" duration="142" venue="Sportovní hala" name="Ať žije republika"/>
-	<event dateTime="2018-08-04T12:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 2"/>
-	<event dateTime="2018-08-04T14:00:00" duration="153" venue="Slovácké divadlo" name="Důvěrný nepřítel"/>
-	<event dateTime="2018-08-04T14:00:00" duration="60" venue="Dětský/herní stan" name="Divadlo Koráb Brno: Rytíři a princezny"/>
-	<event dateTime="2018-08-04T14:00:00" duration="108" venue="Kino Mír" name="Strýček Váňa"/>
-	<event dateTime="2018-08-04T14:30:00" duration="98" venue="Kino Hvězda" name="Chléb náš vezdejší (Hudba: Epoque Quartet)"/>
-	<event dateTime="2018-08-04T14:30:00" duration="80" venue="Respekt stan" name="České krátké filmy"/>
-	<event dateTime="2018-08-04T15:00:00" duration="60" venue="Dětský/herní stan" name="Představení s pejsky"/>
-	<event dateTime="2018-08-04T15:00:00" duration="109" venue="Reduta 1" name="Horko jako v červnu"/>
-	<event dateTime="2018-08-04T15:00:00" duration="129" venue="Klub kultury 1" name="Moje šťastná rodina"/>
-	<event dateTime="2018-08-04T15:30:00" duration="90" venue="Klub kultury 2" name="Lekce filmu podle Rolanda Klicka"/>
-	<event dateTime="2018-08-04T15:30:00" duration="45" venue="Sportovní hala" name="Kapsle"/>
-	<event dateTime="2018-08-04T15:30:00" duration="115" venue="Sportovní hala" name="Chevalier"/>
-	<event dateTime="2018-08-04T16:00:00" duration="60" venue="Divadelní/literární stan" name="Ingmar Bergman: Malba na dřevě"/>
-	<event dateTime="2018-08-04T16:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 3"/>
-	<event dateTime="2018-08-04T16:30:00" duration="60" venue="Dětský/herní stan" name="Večerníčky pro pěkný večer: Nové nej…"/>
-	<event dateTime="2018-08-04T17:00:00" duration="105" venue="Kino Mír" name="Tichá bolest"/>
-	<event dateTime="2018-08-04T17:00:00" duration="198" venue="Slovácké divadlo" name="Fanny a Alexandr"/>
-	<event dateTime="2018-08-04T17:00:00" duration="43" venue="Kino Hvězda" name="Filmy Jana Kříženeckého"/>
-	<event dateTime="2018-08-04T17:15:00" duration="60" venue="Divadelní/literární stan" name="Současná slovenská próza: Daniel Majling, BALLA"/>
-	<event dateTime="2018-08-04T17:30:00" duration="122" venue="Reduta 1" name="Špión, který přišel z chladu"/>
-	<event dateTime="2018-08-04T17:30:00" duration="155" venue="Klub kultury 1" name="Po strništi bos (černobílá verze)"/>
-	<event dateTime="2018-08-04T18:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 4"/>
-	<event dateTime="2018-08-04T18:30:00" duration="90" venue="Divadelní/literární stan" name="Harakiri Czurakami"/>
-	<event dateTime="2018-08-04T18:30:00" duration="134" venue="Sportovní hala" name="White Star"/>
-	<event dateTime="2018-08-04T19:30:00" duration="120" venue="Dětský/herní stan" name="Večer deskových her s Mindok"/>
-	<event dateTime="2018-08-04T20:00:00" duration="30" venue="Kino Hvězda" name="Slavnostní zakončení"/>
-	<event dateTime="2018-08-04T20:00:00" duration="120" venue="innogy letní kino Masarykovo nám." name="Barbora Poláková"/>
-	<event dateTime="2018-08-04T20:00:00" duration="180" venue="Divadelní/literární stan" name="Cimbálová muzika Pajtáš"/>
-	<event dateTime="2018-08-04T20:30:00" duration="163" venue="Kino Hvězda" name="Jan Palach"/>
-	<event dateTime="2018-08-04T20:30:00" duration="107" venue="Klub kultury 1" name="Lítost"/>
-	<event dateTime="2018-08-04T21:00:00" duration="133" venue="Slovácké divadlo" name="Moulin Rouge"/>
-	<event dateTime="2018-08-04T21:00:00" duration="60" venue="Klub Mír" name="MIMO a Oliver"/>
-	<event dateTime="2018-08-04T21:00:00" duration="128" venue="Reduta 1" name="Bergman a divadlo"/>
-	<event dateTime="2018-08-04T21:00:00" duration="128" venue="Reduta 1" name="Bergman a film"/>
-	<event dateTime="2018-08-04T21:30:00" duration="130" venue="Sportovní hala" name="Skalpel, prosím"/>
-	<event dateTime="2018-08-04T21:30:00" duration="93" venue="Letní kino Smetanovy sady" name="Konec starých časů"/>
-	<event dateTime="2018-08-04T22:00:00" duration="100" venue="innogy letní kino Masarykovo nám." name="Hastrman"/>
-	<event dateTime="2018-08-04T23:00:00" duration="60" venue="Klub Mír" name="Barbora (Tetris)"/>
-	<event dateTime="2018-08-04T23:30:00" duration="80" venue="Slovácké divadlo" name="Po zkoušce"/>
-	<event dateTime="2018-08-04T23:30:00" duration="106" venue="Letní kino Smetanovy sady" name="Karaoke: Pomáda"/>
-	<event dateTime="2018-08-04T23:59:00" duration="74" venue="innogy letní kino Masarykovo nám." name="Hora"/>
-	<event dateTime="2018-08-04T23:59:00" duration="39" venue="Sportovní hala" name="Scény z předměstí"/>
-	<event dateTime="2018-08-04T23:59:00" duration="110" venue="Sportovní hala" name="Velmi temné období"/>
-	<event dateTime="2018-08-05T09:00:00" duration="130" venue="Kino Hvězda" name="Jan Jílek uvádí"/>
-	<event dateTime="2018-08-05T11:00:00" duration="130" venue="Kino Hvězda" name="Iva Hejlíčková uvádí"/>
-	<event dateTime="2018-08-05T13:00:00" duration="130" venue="Kino Hvězda" name="Radana Korená uvádí"/>
+	<session dateTime="2018-07-27T16:00:00" duration="73" venue="Stan ČT" name="Záhadný pan Hyde"/>
+	<session dateTime="2018-07-27T17:00:00" duration="125" venue="Kino Hvězda" name="Čas opilých koní"/>
+	<session dateTime="2018-07-27T17:00:00" duration="30" venue="Galerie Slováckého muzea" name="Friedrich Wilhelm Murnau: Soukromé fotografie"/>
+	<session dateTime="2018-07-27T17:00:00" duration="135" venue="Kino Mír" name="Huacho"/>
+	<session dateTime="2018-07-27T17:00:00" duration="120" venue="Slovácké divadlo" name="The Broadway Melody"/>
+	<session dateTime="2018-07-27T17:20:00" duration="76" venue="Stan ČT" name="Hrabě Drakula"/>
+	<session dateTime="2018-07-27T17:30:00" duration="97" venue="Reduta 1" name="Mrtvý mezi živými"/>
+	<session dateTime="2018-07-27T17:30:00" duration="84" venue="Klub kultury 1" name="Hora"/>
+	<session dateTime="2018-07-27T18:00:00" duration="139" venue="Sportovní hala" name="Nina"/>
+	<session dateTime="2018-07-27T18:40:00" duration="84" venue="Stan ČT" name="Hostinec u létavého draka"/>
+	<session dateTime="2018-07-27T19:00:00" duration="90" venue="Divadelní/literární stan" name="Simona Babčáková a kol.: NO A!"/>
+	<session dateTime="2018-07-27T19:30:00" duration="120" venue="Dětský/herní stan" name="Večer deskových her s Mindok"/>
+	<session dateTime="2018-07-27T20:00:00" duration="93" venue="Reduta 1" name="Počátky Triera 1: dětství a univerzitní léta"/>
+	<session dateTime="2018-07-27T20:30:00" duration="127" venue="Slovácké divadlo" name="3 dny v Quiberonu"/>
+	<session dateTime="2018-07-27T20:30:00" duration="107" venue="Kino Hvězda" name="Sedmá pečeť"/>
+	<session dateTime="2018-07-27T21:00:00" duration="148" venue="Sportovní hala" name="Atentát"/>
+	<session dateTime="2018-07-27T21:00:00" duration="85" venue="Klub kultury 1" name="Až přijde válka"/>
+	<session dateTime="2018-07-27T21:00:00" duration="90" venue="Klub Mír" name="Longital"/>
+	<session dateTime="2018-07-27T21:30:00" duration="98" venue="Letní kino Smetanovy sady" name="Vzpoura hraček"/>
+	<session dateTime="2018-07-27T21:30:00" duration="98" venue="Letní kino Smetanovy sady" name="Extase"/>
+	<session dateTime="2018-07-27T22:00:00" duration="90" venue="innogy letní kino Masarykovo nám." name="Tátova volha"/>
+	<session dateTime="2018-07-27T22:30:00" duration="120" venue="Klub Mír" name="DJ Yukimura + Abu"/>
+	<session dateTime="2018-07-27T22:30:00" duration="151" venue="Reduta 1" name="Nikdo nic neví o perských kočkách"/>
+	<session dateTime="2018-07-27T23:30:00" duration="136" venue="Kino Hvězda" name="Whiskey zloděj"/>
+	<session dateTime="2018-07-27T23:30:00" duration="105" venue="Slovácké divadlo" name="Hardcore"/>
+	<session dateTime="2018-07-27T23:59:00" duration="94" venue="Sportovní hala" name="Lesní duch"/>
+	<session dateTime="2018-07-27T23:59:00" duration="75" venue="innogy letní kino Masarykovo nám." name="Stopy hrůzy"/>
+	<session dateTime="2018-07-28T08:30:00" duration="140" venue="Slovácké divadlo" name="Milada"/>
+	<session dateTime="2018-07-28T08:30:00" duration="106" venue="Kino Hvězda" name="Dvanáct rozhněvaných mužů"/>
+	<session dateTime="2018-07-28T09:00:00" duration="109" venue="Reduta 1" name="Podzimní sonáta"/>
+	<session dateTime="2018-07-28T09:00:00" duration="88" venue="Klub kultury 1" name="Srdce lásky"/>
+	<session dateTime="2018-07-28T09:30:00" duration="88" venue="Sportovní hala" name="Bouřlivé počasí"/>
+	<session dateTime="2018-07-28T10:00:00" duration="180" venue="Dětský/herní stan" name="Free Cinema uvádí: workshop Natáčecí den + krátké filmy Free Cinema Films"/>
+	<session dateTime="2018-07-28T10:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 1"/>
+	<session dateTime="2018-07-28T11:00:00" duration="90" venue="Klub kultury 2" name="TV jak ji neznáte aneb od filmu k televizi a zase zpátky"/>
+	<session dateTime="2018-07-28T11:00:00" duration="140" venue="Slovácké divadlo" name="U ohně"/>
+	<session dateTime="2018-07-28T11:00:00" duration="32" venue="Kino Hvězda" name="Rif a Raf, piloti (Hudba: Robert Israel)"/>
+	<session dateTime="2018-07-28T11:00:00" duration="82" venue="Kino Hvězda" name="Míšenec (Hudba: Robert Israel)"/>
+	<session dateTime="2018-07-28T11:30:00" duration="115" venue="Reduta 1" name="Muž na laně"/>
+	<session dateTime="2018-07-28T11:30:00" duration="91" venue="Klub kultury 1" name="Hosté večeře Páně"/>
+	<session dateTime="2018-07-28T11:30:00" duration="135" venue="Kino Mír" name="Archa světel a stínů"/>
+	<session dateTime="2018-07-28T12:00:00" duration="178" venue="Sportovní hala" name="Sokolovo"/>
+	<session dateTime="2018-07-28T12:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 2"/>
+	<session dateTime="2018-07-28T13:30:00" duration="90" venue="Klub kultury 2" name="Lekce filmu podle Mathieua Pradata"/>
+	<session dateTime="2018-07-28T13:45:00" duration="168" venue="Reduta 1" name="Únos"/>
+	<session dateTime="2018-07-28T14:00:00" duration="117" venue="Kino Mír" name="CZ&amp;SK Talents: Blok A"/>
+	<session dateTime="2018-07-28T14:00:00" duration="90" venue="Stan ČT" name="Adaptace"/>
+	<session dateTime="2018-07-28T14:00:00" duration="75" venue="Dětský/herní stan" name="Divadlo Kampa Praha: Děvčátko Momo"/>
+	<session dateTime="2018-07-28T14:30:00" duration="60" venue="Respekt stan" name="Za oponou virálních videí s miliony zhlédnutí!"/>
+	<session dateTime="2018-07-28T14:30:00" duration="92" venue="Kino Hvězda" name="Upír Nosferatu (Hudba: Tábor radosti)"/>
+	<session dateTime="2018-07-28T14:30:00" duration="106" venue="Slovácké divadlo" name="Zlatokopové z roku 1933"/>
+	<session dateTime="2018-07-28T15:00:00" duration="94" venue="Klub kultury 1" name="Studená válka"/>
+	<session dateTime="2018-07-28T15:00:00" duration="30" venue="Altán ve Smetanových sadech" name="Žertu na stopě"/>
+	<session dateTime="2018-07-28T15:30:00" duration="60" venue="Dětský/herní stan" name="Základy parkouru"/>
+	<session dateTime="2018-07-28T15:30:00" duration="90" venue="Klub kultury 2" name="Jak se Trier stal Trierem"/>
+	<session dateTime="2018-07-28T15:30:00" duration="142" venue="Sportovní hala" name="Kristove roky"/>
+	<session dateTime="2018-07-28T16:00:00" duration="90" venue="Stan ČT" name="Propaganda v Československé televizi"/>
+	<session dateTime="2018-07-28T16:00:00" duration="75" venue="Divadelní/literární stan" name="Ingmar Bergman: Sarabanda"/>
+	<session dateTime="2018-07-28T16:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 3"/>
+	<session dateTime="2018-07-28T17:00:00" duration="92" venue="Dětský/herní stan" name="Filmová pohádka – Korunní princ"/>
+	<session dateTime="2018-07-28T17:00:00" duration="90" venue="Respekt stan" name="Turek &amp; Turek uvádí: Viděli jste někdy něco takovýho?"/>
+	<session dateTime="2018-07-28T17:00:00" duration="125" venue="Slovácké divadlo" name="Žert"/>
+	<session dateTime="2018-07-28T17:00:00" duration="120" venue="Kino Mír" name="CZ&amp;SK Talents: Blok B"/>
+	<session dateTime="2018-07-28T17:30:00" duration="121" venue="Reduta 1" name="Strella"/>
+	<session dateTime="2018-07-28T17:30:00" duration="30" venue="Divadelní/literární stan" name="Galina Kopaněva: Spatřit a napsat"/>
+	<session dateTime="2018-07-28T17:30:00" duration="30" venue="Kino Hvězda" name="Stephan Zaubitzer: Cinemas"/>
+	<session dateTime="2018-07-28T17:30:00" duration="74" venue="Klub kultury 1" name="Plody mraků"/>
+	<session dateTime="2018-07-28T17:30:00" duration="119" venue="Klub kultury 1" name="Švéd v žigulíku"/>
+	<session dateTime="2018-07-28T18:00:00" duration="126" venue="Sportovní hala" name="Hairspray"/>
+	<session dateTime="2018-07-28T18:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 4"/>
+	<session dateTime="2018-07-28T18:00:00" duration="90" venue="Stan ČT" name="Trezorová dramatika 1968–1969"/>
+	<session dateTime="2018-07-28T18:15:00" duration="45" venue="Divadelní/literární stan" name="Jarda Konáš"/>
+	<session dateTime="2018-07-28T19:00:00" duration="30" venue="Kino Hvězda" name="Slavnostní zahájení"/>
+	<session dateTime="2018-07-28T19:15:00" duration="60" venue="Respekt stan" name="Jáchym Topol: Citlivý člověk"/>
+	<session dateTime="2018-07-28T19:30:00" duration="143" venue="Kino Hvězda" name="Želvy mohou létat"/>
+	<session dateTime="2018-07-28T20:00:00" duration="120" venue="innogy letní kino Masarykovo nám." name="David Koller"/>
+	<session dateTime="2018-07-28T20:00:00" duration="120" venue="Dětský/herní stan" name="Chytrý kvíz"/>
+	<session dateTime="2018-07-28T20:00:00" duration="60" venue="Stan ČT" name="Ztracená revue"/>
+	<session dateTime="2018-07-28T20:00:00" duration="60" venue="Stan ČT" name="Půjčovna talentů"/>
+	<session dateTime="2018-07-28T20:30:00" duration="152" venue="Reduta 1" name="Božská Ema"/>
+	<session dateTime="2018-07-28T20:30:00" duration="136" venue="Slovácké divadlo" name="Láska mezi regály"/>
+	<session dateTime="2018-07-28T21:00:00" duration="101" venue="Klub kultury 1" name="Šepoty a výkřiky"/>
+	<session dateTime="2018-07-28T21:00:00" duration="60" venue="Divadelní/literární stan" name="Blachut"/>
+	<session dateTime="2018-07-28T21:30:00" duration="130" venue="Sportovní hala" name="Genesis"/>
+	<session dateTime="2018-07-28T21:30:00" duration="109" venue="Letní kino Smetanovy sady" name="Pytlákova schovanka"/>
+	<session dateTime="2018-07-28T22:00:00" duration="60" venue="Divadelní/literární stan" name="Banana split a jeho moralisté"/>
+	<session dateTime="2018-07-28T22:00:00" duration="120" venue="Klub Mír" name="DJ Maceo (Grundfunk / Radio Wave)"/>
+	<session dateTime="2018-07-28T22:00:00" duration="240" venue="innogy letní kino Masarykovo nám." name="Studentský maraton 2018"/>
+	<session dateTime="2018-07-28T23:00:00" duration="30" venue="Respekt stan" name="Horor Planet Dark I"/>
+	<session dateTime="2018-07-28T23:00:00" duration="180" venue="Divadelní/literární stan" name="Cimbálová muzika Hora"/>
+	<session dateTime="2018-07-28T23:30:00" duration="92" venue="Reduta 1" name="Počátky Triera 2: školní léta"/>
+	<session dateTime="2018-07-28T23:30:00" duration="107" venue="Kino Hvězda" name="Lítost"/>
+	<session dateTime="2018-07-28T23:30:00" duration="108" venue="Slovácké divadlo" name="Hmyz"/>
+	<session dateTime="2018-07-28T23:59:00" duration="124" venue="Sportovní hala" name="Poltergeist"/>
+	<session dateTime="2018-07-29T08:30:00" duration="109" venue="Kino Hvězda" name="Miss Violence"/>
+	<session dateTime="2018-07-29T08:30:00" duration="112" venue="Slovácké divadlo" name="Sedm nevěst pro sedm bratrů"/>
+	<session dateTime="2018-07-29T08:30:00" duration="136" venue="Klub kultury 1" name="Whiskey zloděj"/>
+	<session dateTime="2018-07-29T09:00:00" duration="102" venue="Reduta 1" name="Nic jako dřív"/>
+	<session dateTime="2018-07-29T09:30:00" duration="91" venue="Sportovní hala" name="Planeta Česko"/>
+	<session dateTime="2018-07-29T10:00:00" duration="180" venue="Dětský/herní stan" name="Free Cinema uvádí: workshop Natáčecí den + krátké filmy Free Cinema Films"/>
+	<session dateTime="2018-07-29T10:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 1"/>
+	<session dateTime="2018-07-29T11:00:00" duration="90" venue="Klub kultury 2" name="Lekce filmu podle Bahmana Ghobadiho"/>
+	<session dateTime="2018-07-29T11:00:00" duration="113" venue="Kino Hvězda" name="Svět valčíků"/>
+	<session dateTime="2018-07-29T11:00:00" duration="114" venue="Slovácké divadlo" name="Polární záře"/>
+	<session dateTime="2018-07-29T11:30:00" duration="154" venue="Reduta 1" name="Křídla (Hudba: Robert Israel)"/>
+	<session dateTime="2018-07-29T11:30:00" duration="110" venue="Klub kultury 1" name="Tvář"/>
+	<session dateTime="2018-07-29T11:30:00" duration="122" venue="Kino Mír" name="Špión, který přišel z chladu"/>
+	<session dateTime="2018-07-29T12:00:00" duration="84" venue="Sportovní hala" name="Reklamy a klipy Larse von Triera"/>
+	<session dateTime="2018-07-29T12:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 2"/>
+	<session dateTime="2018-07-29T13:30:00" duration="75" venue="Klub kultury 2" name="Co je pravda a co není v historickém filmu"/>
+	<session dateTime="2018-07-29T14:00:00" duration="90" venue="Stan ČT" name="Český film v České televizi"/>
+	<session dateTime="2018-07-29T14:00:00" duration="60" venue="Respekt stan" name="Rozhovor se skupinou Dálava"/>
+	<session dateTime="2018-07-29T14:00:00" duration="60" venue="Dětský/herní stan" name="Divadlo Kampa Praha: Malý princ"/>
+	<session dateTime="2018-07-29T14:00:00" duration="118" venue="Kino Mír" name="Úsměvy letní noci"/>
+	<session dateTime="2018-07-29T14:30:00" duration="89" venue="Kino Hvězda" name="Východ slunce (Hudba: FORMA)"/>
+	<session dateTime="2018-07-29T14:30:00" duration="88" venue="Slovácké divadlo" name="Sezóna nosorožců"/>
+	<session dateTime="2018-07-29T15:00:00" duration="134" venue="Reduta 1" name="Člověk proti zkáze"/>
+	<session dateTime="2018-07-29T15:00:00" duration="115" venue="Klub kultury 1" name="Profil"/>
+	<session dateTime="2018-07-29T15:30:00" duration="88" venue="Sportovní hala" name="Alfred Hitchcock uvádí (Kolaps, Tajemství pana Blancharda, Dokonalý zločin)"/>
+	<session dateTime="2018-07-29T15:30:00" duration="90" venue="Klub kultury 2" name="Inspirace Larse von Triera"/>
+	<session dateTime="2018-07-29T15:30:00" duration="120" venue="Dětský/herní stan" name="Free Cinema uvádí: Dílna kreslené animace"/>
+	<session dateTime="2018-07-29T15:30:00" duration="30" venue="Respekt stan" name="Respekt: Fotografie"/>
+	<session dateTime="2018-07-29T16:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 3"/>
+	<session dateTime="2018-07-29T16:00:00" duration="90" venue="Stan ČT" name="Masterclass: Harold Apter"/>
+	<session dateTime="2018-07-29T17:00:00" duration="133" venue="Kino Mír" name="Kamenolom boží"/>
+	<session dateTime="2018-07-29T17:00:00" duration="30" venue="Slovácké muzeum" name="Bergman 100"/>
+	<session dateTime="2018-07-29T17:00:00" duration="106" venue="Kino Hvězda" name="Kolekce oscarových krátkých filmů"/>
+	<session dateTime="2018-07-29T17:00:00" duration="123" venue="Slovácké divadlo" name="Chicago"/>
+	<session dateTime="2018-07-29T17:30:00" duration="80" venue="Reduta 1" name="Po zkoušce"/>
+	<session dateTime="2018-07-29T17:30:00" duration="149" venue="Klub kultury 1" name="Na krátko"/>
+	<session dateTime="2018-07-29T17:30:00" duration="90" venue="Klub kultury 2" name="Brave New VR Worlds: Futurologický kongres na dohled?"/>
+	<session dateTime="2018-07-29T17:45:00" duration="45" venue="Dětský/herní stan" name="Večerníčky pro pěkný večer – Staré nej…"/>
+	<session dateTime="2018-07-29T18:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 4"/>
+	<session dateTime="2018-07-29T18:00:00" duration="90" venue="Stan ČT" name="Práce s archivem České televize a webový projekt TV Program 1968"/>
+	<session dateTime="2018-07-29T18:00:00" duration="127" venue="Sportovní hala" name="Zabít člověka"/>
+	<session dateTime="2018-07-29T19:00:00" duration="60" venue="Respekt stan" name="Laterna magika dnes"/>
+	<session dateTime="2018-07-29T19:00:00" duration="50" venue="Divadelní/literární stan" name="GAFFA o.z.: Pomalu plynúce dni"/>
+	<session dateTime="2018-07-29T19:30:00" duration="120" venue="Dětský/herní stan" name="Večer deskových her s Mindok"/>
+	<session dateTime="2018-07-29T20:00:00" duration="162" venue="Kino Hvězda" name="West Side Story"/>
+	<session dateTime="2018-07-29T20:00:00" duration="55" venue="Stan ČT" name="Fuga"/>
+	<session dateTime="2018-07-29T20:00:00" duration="55" venue="Stan ČT" name="Kriminalistický případ: Pomluva"/>
+	<session dateTime="2018-07-29T20:30:00" duration="117" venue="Slovácké divadlo" name="Modlitba"/>
+	<session dateTime="2018-07-29T21:00:00" duration="120" venue="Klub kultury 1" name="Donbas"/>
+	<session dateTime="2018-07-29T21:00:00" duration="110" venue="Reduta 1" name="Mladá léta Erika Nietzscheho"/>
+	<session dateTime="2018-07-29T21:00:00" duration="90" venue="Klub Mír" name="Dálava (US, Canada)"/>
+	<session dateTime="2018-07-29T21:00:00" duration="62" venue="Stan ČT" name="Inzerát"/>
+	<session dateTime="2018-07-29T21:30:00" duration="89" venue="Letní kino Smetanovy sady" name="Zde jsou lvi"/>
+	<session dateTime="2018-07-29T21:30:00" duration="108" venue="Sportovní hala" name="Bravados"/>
+	<session dateTime="2018-07-29T22:00:00" duration="85" venue="innogy letní kino Masarykovo nám." name="Prezident Blaník"/>
+	<session dateTime="2018-07-29T22:15:00" duration="115" venue="Stan ČT" name="Korespondence V+W"/>
+	<session dateTime="2018-07-29T22:30:00" duration="120" venue="Klub Mír" name="Tea Jay Ivo"/>
+	<session dateTime="2018-07-29T23:00:00" duration="30" venue="Respekt stan" name="Horor Planet Dark II"/>
+	<session dateTime="2018-07-29T23:00:00" duration="151" venue="Reduta 1" name="Tísnivé okamžiky"/>
+	<session dateTime="2018-07-29T23:30:00" duration="109" venue="Slovácké divadlo" name="Jeden den"/>
+	<session dateTime="2018-07-29T23:30:00" duration="106" venue="Kino Hvězda" name="Špičák"/>
+	<session dateTime="2018-07-29T23:59:00" duration="99" venue="Sportovní hala" name="Stůj při mně"/>
+	<session dateTime="2018-07-29T23:59:00" duration="123" venue="innogy letní kino Masarykovo nám." name="Rock'n Roll"/>
+	<session dateTime="2018-07-30T08:30:00" duration="129" venue="Kino Hvězda" name="Moje šťastná rodina"/>
+	<session dateTime="2018-07-30T08:30:00" duration="94" venue="Slovácké divadlo" name="Studená válka"/>
+	<session dateTime="2018-07-30T09:00:00" duration="103" venue="Klub kultury 1" name="Kvarteto"/>
+	<session dateTime="2018-07-30T09:00:00" duration="85" venue="Reduta 1" name="27. den"/>
+	<session dateTime="2018-07-30T09:30:00" duration="140" venue="Sportovní hala" name="U ohně"/>
+	<session dateTime="2018-07-30T10:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 1"/>
+	<session dateTime="2018-07-30T10:00:00" duration="180" venue="Dětský/herní stan" name="Free Cinema uvádí: workshop Natáčecí den + krátké filmy Free Cinema Films"/>
+	<session dateTime="2018-07-30T11:00:00" duration="110" venue="Klub kultury 1" name="Útěk"/>
+	<session dateTime="2018-07-30T11:00:00" duration="100" venue="Slovácké divadlo" name="Velký Jim McLain"/>
+	<session dateTime="2018-07-30T11:00:00" duration="99" venue="Kino Hvězda" name="Alpy"/>
+	<session dateTime="2018-07-30T11:30:00" duration="129" venue="Kino Mír" name="Bohu žel"/>
+	<session dateTime="2018-07-30T11:30:00" duration="106" venue="Reduta 1" name="Mlčení"/>
+	<session dateTime="2018-07-30T11:45:00" duration="90" venue="Klub kultury 2" name="„Až příliš lidská záležitost“: mužské, ženské, queer?"/>
+	<session dateTime="2018-07-30T12:00:00" duration="90" venue="Stan ČT" name="Most!"/>
+	<session dateTime="2018-07-30T12:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 2"/>
+	<session dateTime="2018-07-30T12:00:00" duration="139" venue="Sportovní hala" name="Vůbec nic se nestalo"/>
+	<session dateTime="2018-07-30T13:00:00" duration="148" venue="Slovácké divadlo" name="Král Šumavy"/>
+	<session dateTime="2018-07-30T13:00:00" duration="30" venue="Věznice Uherské Hradiště" name="Vstupem Vnik"/>
+	<session dateTime="2018-07-30T13:30:00" duration="90" venue="Klub kultury 2" name="CK Monarchia: Polsko a ČR v dobách Rakouska-Uherska"/>
+	<session dateTime="2018-07-30T13:30:00" duration="90" venue="Respekt stan" name="Nová krev českého filmu"/>
+	<session dateTime="2018-07-30T14:00:00" duration="90" venue="Stan ČT" name="Česká na sockách: Strategie marketingu pořadů ČT v digitálním světě"/>
+	<session dateTime="2018-07-30T14:00:00" duration="90" venue="Dětský/herní stan" name="Divadlo Koráb Brno: Dlouhý, Široký a Bystrozraký"/>
+	<session dateTime="2018-07-30T14:00:00" duration="176" venue="Klub kultury 1" name="Nahý"/>
+	<session dateTime="2018-07-30T14:00:00" duration="91" venue="Kino Mír" name="Hosté večeře Páně"/>
+	<session dateTime="2018-07-30T14:30:00" duration="92" venue="Kino Hvězda" name="Strašidelný zámek (Hudba: VyjakoMy)"/>
+	<session dateTime="2018-07-30T14:30:00" duration="120" venue="Reduta 1" name="Můj otec George Voskovec"/>
+	<session dateTime="2018-07-30T15:00:00" duration="164" venue="Sportovní hala" name="Domestik"/>
+	<session dateTime="2018-07-30T15:30:00" duration="90" venue="Klub kultury 2" name="Lekce filmu podle Alejandra Fernándeze Almendrase"/>
+	<session dateTime="2018-07-30T15:45:00" duration="120" venue="Dětský/herní stan" name="Malování na obličej"/>
+	<session dateTime="2018-07-30T16:00:00" duration="30" venue="Knihovna Bedřicha Beneše Buchlovana" name="Po-lin. Židé v republice mnoha národů"/>
+	<session dateTime="2018-07-30T16:00:00" duration="45" venue="Divadelní/literární stan" name="Zuzana Kopečková: Strážce mýtů"/>
+	<session dateTime="2018-07-30T16:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 3"/>
+	<session dateTime="2018-07-30T16:00:00" duration="90" venue="Stan ČT" name="Cesta filmaře"/>
+	<session dateTime="2018-07-30T16:00:00" duration="65" venue="Respekt stan" name="ÍRÁN:CI, program krátkých filmů"/>
+	<session dateTime="2018-07-30T17:00:00" duration="60" venue="Divadelní/literární stan" name="Tereza Brdečková: Hodinka s Tajemstvím hradu v Karpatech"/>
+	<session dateTime="2018-07-30T17:00:00" duration="105" venue="Kino Mír" name="Hardcore"/>
+	<session dateTime="2018-07-30T17:00:00" duration="179" venue="Slovácké divadlo" name="Scény z manželského života"/>
+	<session dateTime="2018-07-30T17:00:00" duration="107" venue="Kino Hvězda" name="Tichá noc"/>
+	<session dateTime="2018-07-30T17:30:00" duration="150" venue="Klub kultury 1" name="Městečko Twin Peaks (Ep. 1, Ep. 2)"/>
+	<session dateTime="2018-07-30T17:30:00" duration="62" venue="Reduta 1" name="Byl jsem obviněn"/>
+	<session dateTime="2018-07-30T17:30:00" duration="81" venue="Dětský/herní stan" name="Filmová pohádka – Princezna a písař"/>
+	<session dateTime="2018-07-30T17:30:00" duration="90" venue="Klub kultury 2" name="100 let českých dějin, 100 let jejich filmových obrazů"/>
+	<session dateTime="2018-07-30T18:00:00" duration="90" venue="Stan ČT" name="Dukla 61"/>
+	<session dateTime="2018-07-30T18:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 4"/>
+	<session dateTime="2018-07-30T18:00:00" duration="124" venue="Sportovní hala" name="Odborný dohled nad výkladem snu"/>
+	<session dateTime="2018-07-30T18:15:00" duration="45" venue="Divadelní/literární stan" name="Časopis Kapitál (SK) - filmová a feministická sekce"/>
+	<session dateTime="2018-07-30T19:15:00" duration="45" venue="Divadelní/literární stan" name="Mirka Ábelová (SK)"/>
+	<session dateTime="2018-07-30T19:30:00" duration="205" venue="Kino Hvězda" name="Páté přes deváté"/>
+	<session dateTime="2018-07-30T20:00:00" duration="180" venue="Divadelní/literární stan" name="Horňácká cimbálová muzika Petra Mičky"/>
+	<session dateTime="2018-07-30T20:00:00" duration="120" venue="Dětský/herní stan" name="Chytrý kvíz"/>
+	<session dateTime="2018-07-30T20:00:00" duration="85" venue="Stan ČT" name="Sedm žen Alfonse Karáska"/>
+	<session dateTime="2018-07-30T20:00:00" duration="85" venue="Stan ČT" name="Alfons Karásek v lázních"/>
+	<session dateTime="2018-07-30T20:30:00" duration="114" venue="Reduta 1" name="Prvek zločinu"/>
+	<session dateTime="2018-07-30T20:30:00" duration="101" venue="Slovácké divadlo" name="Tvář"/>
+	<session dateTime="2018-07-30T21:00:00" duration="90" venue="Klub Mír" name="Zvíře jménem Podzim"/>
+	<session dateTime="2018-07-30T21:00:00" duration="10" venue="Klub kultury 1" name="Chůze a běhy"/>
+	<session dateTime="2018-07-30T21:00:00" duration="122" venue="Klub kultury 1" name="Chata na prodej"/>
+	<session dateTime="2018-07-30T21:30:00" duration="110" venue="Sportovní hala" name="Hříšný tanec"/>
+	<session dateTime="2018-07-30T21:30:00" duration="101" venue="Letní kino Smetanovy sady" name="Ruka"/>
+	<session dateTime="2018-07-30T21:30:00" duration="101" venue="Letní kino Smetanovy sady" name="Práče"/>
+	<session dateTime="2018-07-30T22:00:00" duration="40" venue="innogy letní kino Masarykovo nám." name="Stavitel chrámu"/>
+	<session dateTime="2018-07-30T22:30:00" duration="120" venue="Klub Mír" name="DJ Tropicalista y Gadjo.cz (Radio 1)"/>
+	<session dateTime="2018-07-30T23:00:00" duration="30" venue="Respekt stan" name="Horor Planet Dark III"/>
+	<session dateTime="2018-07-30T23:00:00" duration="115" venue="innogy letní kino Masarykovo nám." name="Zahradnictví: Dezertér"/>
+	<session dateTime="2018-07-30T23:30:00" duration="88" venue="Slovácké divadlo" name="Srdce lásky"/>
+	<session dateTime="2018-07-30T23:30:00" duration="107" venue="Kino Hvězda" name="Attenberg"/>
+	<session dateTime="2018-07-30T23:30:00" duration="100" venue="Reduta 1" name="Archa světel a stínů"/>
+	<session dateTime="2018-07-30T23:59:00" duration="100" venue="Sportovní hala" name="Dům plný strachu"/>
+	<session dateTime="2018-07-31T08:30:00" duration="114" venue="Slovácké divadlo" name="Na krátko"/>
+	<session dateTime="2018-07-31T09:00:00" duration="100" venue="Klub kultury 1" name="Hodina vlků"/>
+	<session dateTime="2018-07-31T09:00:00" duration="100" venue="Reduta 1" name="Huacho"/>
+	<session dateTime="2018-07-31T09:30:00" duration="126" venue="Sportovní hala" name="Hairspray"/>
+	<session dateTime="2018-07-31T10:00:00" duration="180" venue="Dětský/herní stan" name="Free Cinema uvádí: workshop Natáčecí den + krátké filmy Free Cinema Films"/>
+	<session dateTime="2018-07-31T10:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 1"/>
+	<session dateTime="2018-07-31T11:00:00" duration="30" venue="Klub kultury 2" name="Jak si usnadnit natáčení ve Zlínském kraji aneb Neformální povídání se zlínskou filmovou kanceláří"/>
+	<session dateTime="2018-07-31T11:00:00" duration="106" venue="Kino Hvězda" name="Dvanáct rozhněvaných mužů"/>
+	<session dateTime="2018-07-31T11:00:00" duration="129" venue="Slovácké divadlo" name="Universum Brdečka"/>
+	<session dateTime="2018-07-31T11:30:00" duration="101" venue="Kino Mír" name="Šepoty a výkřiky"/>
+	<session dateTime="2018-07-31T11:30:00" duration="185" venue="Klub kultury 1" name="Riga (poprvé)"/>
+	<session dateTime="2018-07-31T11:30:00" duration="105" venue="Reduta 1" name="CinEd uvádí: Modrý tygr"/>
+	<session dateTime="2018-07-31T12:00:00" duration="127" venue="Sportovní hala" name="Není nad showbyznys"/>
+	<session dateTime="2018-07-31T12:00:00" duration="90" venue="Stan ČT" name="What's the Buzz"/>
+	<session dateTime="2018-07-31T12:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 2"/>
+	<session dateTime="2018-07-31T13:00:00" duration="90" venue="Respekt stan" name="Inventura slovenského filmu"/>
+	<session dateTime="2018-07-31T13:15:00" duration="45" venue="Cafe 21" name="Modré tygrování – hrátky s filmem"/>
+	<session dateTime="2018-07-31T13:30:00" duration="150" venue="Masarykovo náměstí" name="Location tour pro filmové profesionály: Poznejte nová místa v Uherském Hradišti"/>
+	<session dateTime="2018-07-31T14:00:00" duration="90" venue="Dětský/herní stan" name="Workshop Tvarovací balónky"/>
+	<session dateTime="2018-07-31T14:00:00" duration="113" venue="Kino Mír" name="Poznamenaní"/>
+	<session dateTime="2018-07-31T14:15:00" duration="150" venue="Klub kultury 2" name="CinEd a LFŠ uvádějí: Jak pracovat s Modrým tygrem ve školách a na školních projekcích"/>
+	<session dateTime="2018-07-31T14:30:00" duration="114" venue="Slovácké divadlo" name="Ze života loutek"/>
+	<session dateTime="2018-07-31T14:30:00" duration="109" venue="Kino Hvězda" name="Hořící důl (Hudba: Jiří Hes + Robert Rajs)"/>
+	<session dateTime="2018-07-31T15:00:00" duration="158" venue="Klub kultury 1" name="Tlumočník"/>
+	<session dateTime="2018-07-31T15:00:00" duration="78" venue="Reduta 1" name="Očištění"/>
+	<session dateTime="2018-07-31T15:30:00" duration="105" venue="Sportovní hala" name="Limonádový Joe aneb Koňská opera"/>
+	<session dateTime="2018-07-31T15:30:00" duration="90" venue="Respekt stan" name="Podoby a nástroje filmové a mediální propagandy v dobách studené války i v současnosti"/>
+	<session dateTime="2018-07-31T15:45:00" duration="120" venue="Dětský/herní stan" name="Malování hennou"/>
+	<session dateTime="2018-07-31T16:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 3"/>
+	<session dateTime="2018-07-31T16:00:00" duration="90" venue="Stan ČT" name="Metanol"/>
+	<session dateTime="2018-07-31T17:00:00" duration="112" venue="Slovácké divadlo" name="Tranzit"/>
+	<session dateTime="2018-07-31T17:00:00" duration="133" venue="Kino Hvězda" name="All That Jazz"/>
+	<session dateTime="2018-07-31T17:30:00" duration="90" venue="Klub kultury 1" name="Lásky jedné plavovlásky"/>
+	<session dateTime="2018-07-31T17:30:00" duration="60" venue="Dětský/herní stan" name="Večerníčky pro pěkný večer: Nové nej…"/>
+	<session dateTime="2018-07-31T17:30:00" duration="90" venue="Klub kultury 2" name="Americká léta Jiřího Voskovce"/>
+	<session dateTime="2018-07-31T17:30:00" duration="70" venue="Reduta 1" name="Bergman a divadlo"/>
+	<session dateTime="2018-07-31T17:30:00" duration="68" venue="Reduta 1" name="Bergman a film"/>
+	<session dateTime="2018-07-31T18:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 4"/>
+	<session dateTime="2018-07-31T18:00:00" duration="90" venue="Stan ČT" name="Televize pro teenagery: nesmysl, že? Od Dylana po Lenu Dunham a zpět"/>
+	<session dateTime="2018-07-31T18:00:00" duration="131" venue="Respekt stan" name="Aluna"/>
+	<session dateTime="2018-07-31T18:00:00" duration="134" venue="Sportovní hala" name="Mečiar"/>
+	<session dateTime="2018-07-31T19:00:00" duration="150" venue="Park Rochus" name="Záhadná jízda králů"/>
+	<session dateTime="2018-07-31T19:00:00" duration="90" venue="Divadelní/literární stan" name="Divadlo Husa na provázku: Zkušebna"/>
+	<session dateTime="2018-07-31T19:30:00" duration="120" venue="Dětský/herní stan" name="Večer deskových her s Mindok"/>
+	<session dateTime="2018-07-31T20:00:00" duration="45" venue="Klub Mír" name="Siegfried – One Man Show"/>
+	<session dateTime="2018-07-31T20:00:00" duration="39" venue="Kino Hvězda" name="Slavnost osamělé palmy"/>
+	<session dateTime="2018-07-31T20:00:00" duration="7" venue="Kino Hvězda" name="Svatá Jana"/>
+	<session dateTime="2018-07-31T20:00:00" duration="132" venue="Kino Hvězda" name="Slavnost v botanické zahradě"/>
+	<session dateTime="2018-07-31T20:00:00" duration="75" venue="Stan ČT" name="Autorevue"/>
+	<session dateTime="2018-07-31T20:00:00" duration="75" venue="Stan ČT" name="Revue pro následníka trůnu"/>
+	<session dateTime="2018-07-31T20:30:00" duration="60" venue="Reduta 1" name="Nico naživo"/>
+	<session dateTime="2018-07-31T20:30:00" duration="187" venue="Slovácké divadlo" name="Tajnosti a lži"/>
+	<session dateTime="2018-07-31T21:00:00" duration="130" venue="Klub kultury 1" name="Všechno bude"/>
+	<session dateTime="2018-07-31T21:00:00" duration="90" venue="Klub Mír" name="Katarzia (SK)"/>
+	<session dateTime="2018-07-31T21:30:00" duration="110" venue="Letní kino Smetanovy sady" name="Čintamani &amp; podvodník"/>
+	<session dateTime="2018-07-31T21:30:00" duration="101" venue="Sportovní hala" name="Lesní jahody"/>
+	<session dateTime="2018-07-31T21:45:00" duration="93" venue="Reduta 1" name="Nico, 1988"/>
+	<session dateTime="2018-07-31T22:00:00" duration="113" venue="innogy letní kino Masarykovo nám." name="Zahradnictví: Nápadník"/>
+	<session dateTime="2018-07-31T22:30:00" duration="120" venue="Klub Mír" name="DJ Jeffology"/>
+	<session dateTime="2018-07-31T23:00:00" duration="30" venue="Respekt stan" name="Horor Planet Dark IV"/>
+	<session dateTime="2018-07-31T23:30:00" duration="110" venue="Kino Hvězda" name="Zmařené mládí"/>
+	<session dateTime="2018-07-31T23:59:00" duration="128" venue="Reduta 1" name="Na jezeře (Ep. 1, Ep. 2)"/>
+	<session dateTime="2018-07-31T23:59:00" duration="106" venue="Slovácké divadlo" name="Kolekce oscarových krátkých filmů"/>
+	<session dateTime="2018-07-31T23:59:00" duration="13" venue="Sportovní hala" name="Videodivers"/>
+	<session dateTime="2018-07-31T23:59:00" duration="92" venue="Sportovní hala" name="Záhrobní komando"/>
+	<session dateTime="2018-08-01T08:30:00" duration="123" venue="Slovácké divadlo" name="Chicago"/>
+	<session dateTime="2018-08-01T08:30:00" duration="109" venue="Kino Hvězda" name="Jeden den"/>
+	<session dateTime="2018-08-01T09:00:00" duration="121" venue="Reduta 1" name="Strella"/>
+	<session dateTime="2018-08-01T09:00:00" duration="75" venue="Klub kultury 1" name="Až přijde válka"/>
+	<session dateTime="2018-08-01T09:30:00" duration="108" venue="Sportovní hala" name="Bravados"/>
+	<session dateTime="2018-08-01T10:00:00" duration="120" venue="Klub kultury 2" name="Filmové dílny jinak!"/>
+	<session dateTime="2018-08-01T10:00:00" duration="120" venue="Dětský/herní stan" name="Dílna pixilace"/>
+	<session dateTime="2018-08-01T10:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 1"/>
+	<session dateTime="2018-08-01T10:30:00" duration="131" venue="Kino Hvězda" name="S tváří dítěte"/>
+	<session dateTime="2018-08-01T11:00:00" duration="180" venue="Slovácké divadlo" name="Strom na dřeváky"/>
+	<session dateTime="2018-08-01T11:00:00" duration="90" venue="Respekt stan" name="Lekce filmu podle Meira Lubora Dohnala"/>
+	<session dateTime="2018-08-01T11:30:00" duration="145" venue="Klub kultury 1" name="„Pane, vy jste vdova!“"/>
+	<session dateTime="2018-08-01T11:30:00" duration="107" venue="Reduta 1" name="A pátý jezdec je Strach"/>
+	<session dateTime="2018-08-01T11:30:00" duration="110" venue="Kino Mír" name="Tvář"/>
+	<session dateTime="2018-08-01T12:00:00" duration="85" venue="Sportovní hala" name="27. den"/>
+	<session dateTime="2018-08-01T12:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 2"/>
+	<session dateTime="2018-08-01T13:30:00" duration="180" venue="Reduta 3" name="Od brýlí z kartonu k tvorbě vlastní virtuální reality (dílna)"/>
+	<session dateTime="2018-08-01T14:00:00" duration="90" venue="Dětský/herní stan" name="Divadlo Koráb Brno: O Budulínkovi"/>
+	<session dateTime="2018-08-01T14:00:00" duration="60" venue="Respekt stan" name="Marek Bláha a jak na hudbu v hudebních filmech a reklamách"/>
+	<session dateTime="2018-08-01T14:00:00" duration="91" venue="Kino Mír" name="Vystavení"/>
+	<session dateTime="2018-08-01T14:30:00" duration="130" venue="Slovácké divadlo" name="Tady a teď  (Ep. 1, Ep. 2)"/>
+	<session dateTime="2018-08-01T14:30:00" duration="100" venue="Kino Hvězda" name="Poslední štace (Hudba: CASIO LOYAL)"/>
+	<session dateTime="2018-08-01T14:30:00" duration="110" venue="Stan UTB" name="Čerstvě sklizeno!"/>
+	<session dateTime="2018-08-01T15:00:00" duration="143" venue="Klub kultury 1" name="Hmyz"/>
+	<session dateTime="2018-08-01T15:00:00" duration="132" venue="Reduta 1" name="Můj syn John"/>
+	<session dateTime="2018-08-01T15:30:00" duration="88" venue="Sportovní hala" name="Bouřlivé počasí"/>
+	<session dateTime="2018-08-01T15:30:00" duration="90" venue="Respekt stan" name="Lekce filmu podle Ivy Janžurové"/>
+	<session dateTime="2018-08-01T15:30:00" duration="90" venue="Klub kultury 2" name="30 let s Ingmarem Bergmanem"/>
+	<session dateTime="2018-08-01T15:45:00" duration="60" venue="Dětský/herní stan" name="Výtvarný workshop Stopy v džungli"/>
+	<session dateTime="2018-08-01T16:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 3"/>
+	<session dateTime="2018-08-01T16:45:00" duration="120" venue="Stan UTB" name="Best of 20 let audiovize"/>
+	<session dateTime="2018-08-01T17:00:00" duration="113" venue="Kino Hvězda" name="Doba nevěrná"/>
+	<session dateTime="2018-08-01T17:00:00" duration="108" venue="Kino Mír" name="Strýček Váňa"/>
+	<session dateTime="2018-08-01T17:00:00" duration="97" venue="Dětský/herní stan" name="Filmová pohádka – Svatojánský věneček"/>
+	<session dateTime="2018-08-01T17:00:00" duration="60" venue="Reduta 3" name="Vyrob si vlastní hologram a laternu magiku (dílna)"/>
+	<session dateTime="2018-08-01T17:30:00" duration="90" venue="Klub kultury 2" name="Brave New VR Worlds: Od televizních brýlí k hologramům"/>
+	<session dateTime="2018-08-01T17:30:00" duration="113" venue="Slovácké divadlo" name="Zpívání v dešti"/>
+	<session dateTime="2018-08-01T17:30:00" duration="161" venue="Reduta 1" name="Jarní povětří"/>
+	<session dateTime="2018-08-01T17:30:00" duration="120" venue="Klub kultury 1" name="Nejlepší"/>
+	<session dateTime="2018-08-01T17:30:00" duration="75" venue="Respekt stan" name="Rumunsko a kde je Drákula?, program krátkých filmů"/>
+	<session dateTime="2018-08-01T18:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 4"/>
+	<session dateTime="2018-08-01T18:00:00" duration="96" venue="Sportovní hala" name="Persona"/>
+	<session dateTime="2018-08-01T19:00:00" duration="120" venue="Respekt stan" name="Kde se berou staré filmy a kde končí ty současné"/>
+	<session dateTime="2018-08-01T19:00:00" duration="15" venue="Stan UTB" name="20 let AAV - slavnostní přípitek"/>
+	<session dateTime="2018-08-01T19:30:00" duration="120" venue="Stan UTB" name="Batalives"/>
+	<session dateTime="2018-08-01T20:00:00" duration="60" venue="Galerie slováckých vín" name="Pramítačka: živá filmová performance"/>
+	<session dateTime="2018-08-01T20:00:00" duration="180" venue="Divadelní/literární stan" name="Cimbálová muzika Vinár"/>
+	<session dateTime="2018-08-01T20:00:00" duration="120" venue="Dětský/herní stan" name="Chytrý kvíz"/>
+	<session dateTime="2018-08-01T20:30:00" duration="103" venue="Kino Hvězda" name="Petrolejové lampy"/>
+	<session dateTime="2018-08-01T20:30:00" duration="131" venue="Slovácké divadlo" name="Přimhuř oči"/>
+	<session dateTime="2018-08-01T20:30:00" duration="170" venue="Reduta 1" name="Vera Drake - Žena dvou tváří"/>
+	<session dateTime="2018-08-01T21:00:00" duration="131" venue="Klub kultury 1" name="Vlasy"/>
+	<session dateTime="2018-08-01T21:00:00" duration="90" venue="Klub Mír" name="Mucha"/>
+	<session dateTime="2018-08-01T21:00:00" duration="125" venue="Stan UTB" name="Přeostřeno"/>
+	<session dateTime="2018-08-01T21:30:00" duration="137" venue="SOŠG" name="Nic jako dřív"/>
+	<session dateTime="2018-08-01T21:30:00" duration="135" venue="Sportovní hala" name="Mrtvý bod"/>
+	<session dateTime="2018-08-01T21:30:00" duration="103" venue="Letní kino Smetanovy sady" name="Kladivo na čarodějnice"/>
+	<session dateTime="2018-08-01T22:00:00" duration="90" venue="innogy letní kino Masarykovo nám." name="Backstage"/>
+	<session dateTime="2018-08-01T22:30:00" duration="120" venue="Klub Mír" name="Lunchmeat presents 1LFF &amp; Two Pixels Above live"/>
+	<session dateTime="2018-08-01T23:00:00" duration="30" venue="Respekt stan" name="Horor Planet Dark V"/>
+	<session dateTime="2018-08-01T23:30:00" duration="120" venue="Stan UTB" name="Au_Dio_Vize Party"/>
+	<session dateTime="2018-08-01T23:30:00" duration="140" venue="Reduta 1" name="Fígle"/>
+	<session dateTime="2018-08-01T23:30:00" duration="118" venue="Slovácké divadlo" name="Úsměvy letní noci"/>
+	<session dateTime="2018-08-01T23:30:00" duration="145" venue="Kino Hvězda" name="Smrt si říká Engelchen"/>
+	<session dateTime="2018-08-01T23:59:00" duration="113" venue="Sportovní hala" name="Smrtící přitažlivost"/>
+	<session dateTime="2018-08-02T08:30:00" duration="107" venue="Kino Hvězda" name="Sedmá pečeť"/>
+	<session dateTime="2018-08-02T09:00:00" duration="106" venue="Reduta 1" name="Špičák"/>
+	<session dateTime="2018-08-02T09:00:00" duration="130" venue="Klub kultury 1" name="Všechno bude"/>
+	<session dateTime="2018-08-02T09:00:00" duration="90" venue="Dětský/herní stan" name="Workshop s pejsky"/>
+	<session dateTime="2018-08-02T09:30:00" duration="185" venue="Sportovní hala" name="Riga (poprvé)"/>
+	<session dateTime="2018-08-02T10:00:00" duration="120" venue="Klub kultury 2" name="Na film do muzea: filmová výchova s interaktivními exponáty"/>
+	<session dateTime="2018-08-02T10:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 1"/>
+	<session dateTime="2018-08-02T10:30:00" duration="90" venue="Dětský/herní stan" name="Divadelní herectví – workshop pro děti"/>
+	<session dateTime="2018-08-02T11:00:00" duration="80" venue="Kino Hvězda" name="Smuteční slavnost"/>
+	<session dateTime="2018-08-02T11:00:00" duration="184" venue="Klub kultury 1" name="Dogville test"/>
+	<session dateTime="2018-08-02T11:00:00" duration="229" venue="Klub kultury 1" name="Dogville"/>
+	<session dateTime="2018-08-02T11:30:00" duration="145" venue="Reduta 1" name="Výlet"/>
+	<session dateTime="2018-08-02T11:30:00" duration="106" venue="Kino Mír" name="Mlčení"/>
+	<session dateTime="2018-08-02T12:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 2"/>
+	<session dateTime="2018-08-02T13:00:00" duration="129" venue="Sportovní hala" name="Supermarket"/>
+	<session dateTime="2018-08-02T13:30:00" duration="90" venue="Reduta 3" name="Buď VJ: Videomapping a živá animace v prostoru (dílna)"/>
+	<session dateTime="2018-08-02T13:30:00" duration="90" venue="Klub kultury 2" name="Filmová studená válka"/>
+	<session dateTime="2018-08-02T14:00:00" duration="90" venue="Dětský/herní stan" name="Bublinový workshop"/>
+	<session dateTime="2018-08-02T14:00:00" duration="43" venue="Kino Mír" name="Filmy Jana Kříženeckého"/>
+	<session dateTime="2018-08-02T14:30:00" duration="151" venue="Reduta 1" name="Já, Kuba"/>
+	<session dateTime="2018-08-02T14:30:00" duration="92" venue="Kino Hvězda" name="Tabu (Hudba: Ångström)"/>
+	<session dateTime="2018-08-02T15:00:00" duration="125" venue="Klub kultury 1" name="Cirkus Rwanda"/>
+	<session dateTime="2018-08-02T15:30:00" duration="112" venue="Sportovní hala" name="Sedm nevěst pro sedm bratrů"/>
+	<session dateTime="2018-08-02T15:30:00" duration="90" venue="Dětský/herní stan" name="Free Cinema uvádí: Flipbook dílna"/>
+	<session dateTime="2018-08-02T15:30:00" duration="90" venue="Reduta 3" name="Alchymie filmového materiálu: Střihej, zakládej, promítej!"/>
+	<session dateTime="2018-08-02T15:30:00" duration="75" venue="Divadelní/literární stan" name="Ingmar Bergman: Nevěra"/>
+	<session dateTime="2018-08-02T15:30:00" duration="90" venue="Klub kultury 2" name="TV jak ji neznáte aneb od filmu k televizi a zase zpátky II"/>
+	<session dateTime="2018-08-02T16:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 3"/>
+	<session dateTime="2018-08-02T17:00:00" duration="105" venue="Kino Hvězda" name="A dýchejte klidně"/>
+	<session dateTime="2018-08-02T17:00:00" duration="60" venue="Dětský/herní stan" name="Večerníčky pro pěkný večer: Nové nej…"/>
+	<session dateTime="2018-08-02T17:00:00" duration="114" venue="Kino Mír" name="Ze života loutek"/>
+	<session dateTime="2018-08-02T17:30:00" duration="145" venue="Klub kultury 1" name="Hastrman"/>
+	<session dateTime="2018-08-02T17:30:00" duration="137" venue="Reduta 1" name="S láskou k vlasti nejdál dojdeš"/>
+	<session dateTime="2018-08-02T17:30:00" duration="90" venue="Klub kultury 2" name="Lekce filmu podle Andrzeje Jakimowského a Ewy Jakimowské"/>
+	<session dateTime="2018-08-02T17:30:00" duration="90" venue="Respekt stan" name="Vypadat jako film – HBO v kontextu quality TV"/>
+	<session dateTime="2018-08-02T18:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 4"/>
+	<session dateTime="2018-08-02T18:00:00" duration="190" venue="Sportovní hala" name="Nymfomanka, část I. (Director´s cut)"/>
+	<session dateTime="2018-08-02T18:15:00" duration="75" venue="Divadelní/literární stan" name="Současná slovenská poezie: Ivan Štrpka, Eva Tomkuliaková, Michal Habal, Katarína Kucbelová, Michal Tallo"/>
+	<session dateTime="2018-08-02T19:00:00" duration="70" venue="Slovácké divadlo" name="Cirk La Putyka: Slapstick Sonata"/>
+	<session dateTime="2018-08-02T19:00:00" duration="60" venue="Divadelní/literární stan" name="Záviš"/>
+	<session dateTime="2018-08-02T19:30:00" duration="120" venue="Dětský/herní stan" name="Večer deskových her s Mindok"/>
+	<session dateTime="2018-08-02T20:00:00" duration="135" venue="Respekt stan" name="Slam poetry exhibice"/>
+	<session dateTime="2018-08-02T20:30:00" duration="158" venue="Reduta 1" name="Happy-Go-Lucky"/>
+	<session dateTime="2018-08-02T20:30:00" duration="120" venue="Kino Hvězda" name="Na Chesilské pláži"/>
+	<session dateTime="2018-08-02T21:00:00" duration="60" venue="Klub Mír" name="Radio 1 uvádí: PRIS"/>
+	<session dateTime="2018-08-02T21:30:00" duration="160" venue="Klub kultury 1" name="Létající ďáblové"/>
+	<session dateTime="2018-08-02T21:30:00" duration="115" venue="Sportovní hala" name="Drazí běloši (Ep. 1, Ep. 2, Ep. 3)"/>
+	<session dateTime="2018-08-02T21:30:00" duration="84" venue="Letní kino Smetanovy sady" name="Možnosti dialogu"/>
+	<session dateTime="2018-08-02T21:30:00" duration="84" venue="Letní kino Smetanovy sady" name="Čarodějův učeň"/>
+	<session dateTime="2018-08-02T22:00:00" duration="93" venue="innogy letní kino Masarykovo nám." name="Projekt Babička"/>
+	<session dateTime="2018-08-02T22:00:00" duration="120" venue="Klub Mír" name="DJ Tomino &amp; Myslivec"/>
+	<session dateTime="2018-08-02T23:00:00" duration="180" venue="Divadelní/literární stan" name="Cimbálová muzika Kremlor"/>
+	<session dateTime="2018-08-02T23:00:00" duration="30" venue="Respekt stan" name="Horor Planet Dark VI"/>
+	<session dateTime="2018-08-02T23:30:00" duration="110" venue="Kino Hvězda" name="Rocky Horror Picture Show"/>
+	<session dateTime="2018-08-02T23:59:00" duration="104" venue="Sportovní hala" name="Vrah zůstal po škole"/>
+	<session dateTime="2018-08-02T23:59:00" duration="83" venue="Reduta 1" name="Hrdina má strach"/>
+	<session dateTime="2018-08-03T08:30:00" duration="101" venue="Kino Hvězda" name="Lesní jahody"/>
+	<session dateTime="2018-08-03T09:00:00" duration="110" venue="Reduta 1" name="Hříšný tanec"/>
+	<session dateTime="2018-08-03T09:00:00" duration="123" venue="Klub kultury 1" name="Tlumočník"/>
+	<session dateTime="2018-08-03T09:00:00" duration="90" venue="Dětský/herní stan" name="Divadelní herectví – workshop pro děti"/>
+	<session dateTime="2018-08-03T09:30:00" duration="120" venue="Sportovní hala" name="Donbas"/>
+	<session dateTime="2018-08-03T10:00:00" duration="105" venue="Slovácké divadlo" name="Cirk La Putyka: Biograf"/>
+	<session dateTime="2018-08-03T10:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 1"/>
+	<session dateTime="2018-08-03T11:00:00" duration="90" venue="Kino Hvězda" name="Lekce filmu podle Mikea Leigha"/>
+	<session dateTime="2018-08-03T11:30:00" duration="225" venue="Klub kultury 1" name="Nymfomanka, část II. (Director´s cut)"/>
+	<session dateTime="2018-08-03T11:30:00" duration="120" venue="Kino Mír" name="The Broadway Melody"/>
+	<session dateTime="2018-08-03T11:30:00" duration="109" venue="Reduta 1" name="Podzimní sonáta"/>
+	<session dateTime="2018-08-03T12:00:00" duration="90" venue="Sportovní hala" name="Roland Klick: Srdce je hladový lovec"/>
+	<session dateTime="2018-08-03T12:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 2"/>
+	<session dateTime="2018-08-03T14:00:00" duration="60" venue="Dětský/herní stan" name="Výtvarný workshop - Origami ptáci (hýbací i létací)"/>
+	<session dateTime="2018-08-03T14:00:00" duration="150" venue="Slovácké divadlo" name="Imagine"/>
+	<session dateTime="2018-08-03T14:00:00" duration="99" venue="Kino Mír" name="Alpy"/>
+	<session dateTime="2018-08-03T14:30:00" duration="117" venue="Kino Hvězda" name="Faust (Hudba: Metronome Blues)"/>
+	<session dateTime="2018-08-03T14:30:00" duration="137" venue="Reduta 1" name="Škytavka"/>
+	<session dateTime="2018-08-03T14:30:00" duration="174" venue="Sportovní hala" name="Další rok"/>
+	<session dateTime="2018-08-03T15:00:00" duration="90" venue="Dětský/herní stan" name="Spontánní tanec pro děti"/>
+	<session dateTime="2018-08-03T15:30:00" duration="90" venue="Klub kultury 2" name="Podoby studené války v československé kinematografii"/>
+	<session dateTime="2018-08-03T15:30:00" duration="100" venue="Klub kultury 1" name="Hodina vlků"/>
+	<session dateTime="2018-08-03T16:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 3"/>
+	<session dateTime="2018-08-03T17:00:00" duration="97" venue="Dětský/herní stan" name="Filmová pohádka – Nejlepší přítel"/>
+	<session dateTime="2018-08-03T17:00:00" duration="145" venue="Reduta 1" name="Kouzelná flétna"/>
+	<session dateTime="2018-08-03T17:00:00" duration="106" venue="Kino Mír" name="Zlatokopové z roku 1933"/>
+	<session dateTime="2018-08-03T17:00:00" duration="151" venue="Slovácké divadlo" name="Archa bláznů aneb Vyprávění z konce života"/>
+	<session dateTime="2018-08-03T17:30:00" duration="103" venue="Kino Hvězda" name="Noc požírá svět"/>
+	<session dateTime="2018-08-03T17:30:00" duration="90" venue="Klub kultury 2" name="Lekce filmu podle Anderse Refna"/>
+	<session dateTime="2018-08-03T17:30:00" duration="150" venue="Klub kultury 1" name="Malá"/>
+	<session dateTime="2018-08-03T17:30:00" duration="148" venue="Klub kultury 1" name="Chvilky"/>
+	<session dateTime="2018-08-03T18:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 4"/>
+	<session dateTime="2018-08-03T18:00:00" duration="120" venue="Sportovní hala" name="Top Gun"/>
+	<session dateTime="2018-08-03T19:00:00" duration="45" venue="Divadelní/literární stan" name="Michaela Raisová a Jana Novorytová: Částečné znejistění"/>
+	<session dateTime="2018-08-03T20:00:00" duration="120" venue="Dětský/herní stan" name="Chytrý kvíz"/>
+	<session dateTime="2018-08-03T20:00:00" duration="194" venue="Kino Hvězda" name="Mr. Turner"/>
+	<session dateTime="2018-08-03T20:15:00" duration="148" venue="Sportovní hala" name="Vysoká modrá zeď"/>
+	<session dateTime="2018-08-03T20:30:00" duration="133" venue="Slovácké divadlo" name="Tenkrát v listopadu"/>
+	<session dateTime="2018-08-03T20:30:00" duration="118" venue="Letecké muzeum v Kunovicích" name="The Nagano Tapes"/>
+	<session dateTime="2018-08-03T20:30:00" duration="126" venue="Klub kultury 1" name="Planeta Česko"/>
+	<session dateTime="2018-08-03T21:00:00" duration="60" venue="Reduta 1" name="Epoque Quartet"/>
+	<session dateTime="2018-08-03T21:00:00" duration="180" venue="Divadelní/literární stan" name="Folklórní večer"/>
+	<session dateTime="2018-08-03T21:30:00" duration="120" venue="Letní kino Smetanovy sady" name="Dědictví aneb Kurvahošigutntag"/>
+	<session dateTime="2018-08-03T22:00:00" duration="111" venue="innogy letní kino Masarykovo nám." name="Po strništi bos"/>
+	<session dateTime="2018-08-03T22:00:00" duration="120" venue="Klub Mír" name="Bassta Fidli Crew"/>
+	<session dateTime="2018-08-03T23:00:00" duration="30" venue="Respekt stan" name="Horor Planet Dark VII"/>
+	<session dateTime="2018-08-03T23:30:00" duration="109" venue="Slovácké divadlo" name="Miss Violence"/>
+	<session dateTime="2018-08-03T23:59:00" duration="140" venue="Kino Hvězda" name="Milada"/>
+	<session dateTime="2018-08-03T23:59:00" duration="62" venue="Reduta 1" name="Byl jsem obviněn"/>
+	<session dateTime="2018-08-03T23:59:00" duration="93" venue="innogy letní kino Masarykovo nám." name="Nico, 1988"/>
+	<session dateTime="2018-08-03T23:59:00" duration="111" venue="Sportovní hala" name="Videodivers"/>
+	<session dateTime="2018-08-03T23:59:00" duration="101" venue="Sportovní hala" name="Útok na věžák"/>
+	<session dateTime="2018-08-04T08:30:00" duration="115" venue="Kino Hvězda" name="Profil"/>
+	<session dateTime="2018-08-04T08:30:00" duration="114" venue="Slovácké divadlo" name="Polární záře"/>
+	<session dateTime="2018-08-04T09:00:00" duration="127" venue="Reduta 1" name="Není nad showbyznys"/>
+	<session dateTime="2018-08-04T09:00:00" duration="96" venue="Klub kultury 1" name="Persona"/>
+	<session dateTime="2018-08-04T09:00:00" duration="60" venue="Dětský/herní stan" name="Výroba filmových plakátů"/>
+	<session dateTime="2018-08-04T09:30:00" duration="89" venue="Sportovní hala" name="Odborný dohled nad výkladem snu"/>
+	<session dateTime="2018-08-04T10:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 1"/>
+	<session dateTime="2018-08-04T10:30:00" duration="90" venue="Dětský/herní stan" name="Divadelní herectví – workshop pro děti"/>
+	<session dateTime="2018-08-04T11:00:00" duration="97" venue="Kino Hvězda" name="L"/>
+	<session dateTime="2018-08-04T11:00:00" duration="116" venue="Slovácké divadlo" name="Věž. Jasný den."/>
+	<session dateTime="2018-08-04T11:30:00" duration="103" venue="Kino Mír" name="Nico, 1988"/>
+	<session dateTime="2018-08-04T11:30:00" duration="138" venue="Klub kultury 1" name="Kvarteto"/>
+	<session dateTime="2018-08-04T11:30:00" duration="113" venue="Reduta 1" name="Svět valčíků"/>
+	<session dateTime="2018-08-04T12:00:00" duration="142" venue="Sportovní hala" name="Ať žije republika"/>
+	<session dateTime="2018-08-04T12:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 2"/>
+	<session dateTime="2018-08-04T14:00:00" duration="153" venue="Slovácké divadlo" name="Důvěrný nepřítel"/>
+	<session dateTime="2018-08-04T14:00:00" duration="60" venue="Dětský/herní stan" name="Divadlo Koráb Brno: Rytíři a princezny"/>
+	<session dateTime="2018-08-04T14:00:00" duration="108" venue="Kino Mír" name="Strýček Váňa"/>
+	<session dateTime="2018-08-04T14:30:00" duration="98" venue="Kino Hvězda" name="Chléb náš vezdejší (Hudba: Epoque Quartet)"/>
+	<session dateTime="2018-08-04T14:30:00" duration="80" venue="Respekt stan" name="České krátké filmy"/>
+	<session dateTime="2018-08-04T15:00:00" duration="60" venue="Dětský/herní stan" name="Představení s pejsky"/>
+	<session dateTime="2018-08-04T15:00:00" duration="109" venue="Reduta 1" name="Horko jako v červnu"/>
+	<session dateTime="2018-08-04T15:00:00" duration="129" venue="Klub kultury 1" name="Moje šťastná rodina"/>
+	<session dateTime="2018-08-04T15:30:00" duration="90" venue="Klub kultury 2" name="Lekce filmu podle Rolanda Klicka"/>
+	<session dateTime="2018-08-04T15:30:00" duration="45" venue="Sportovní hala" name="Kapsle"/>
+	<session dateTime="2018-08-04T15:30:00" duration="115" venue="Sportovní hala" name="Chevalier"/>
+	<session dateTime="2018-08-04T16:00:00" duration="60" venue="Divadelní/literární stan" name="Ingmar Bergman: Malba na dřevě"/>
+	<session dateTime="2018-08-04T16:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 3"/>
+	<session dateTime="2018-08-04T16:30:00" duration="60" venue="Dětský/herní stan" name="Večerníčky pro pěkný večer: Nové nej…"/>
+	<session dateTime="2018-08-04T17:00:00" duration="105" venue="Kino Mír" name="Tichá bolest"/>
+	<session dateTime="2018-08-04T17:00:00" duration="198" venue="Slovácké divadlo" name="Fanny a Alexandr"/>
+	<session dateTime="2018-08-04T17:00:00" duration="43" venue="Kino Hvězda" name="Filmy Jana Kříženeckého"/>
+	<session dateTime="2018-08-04T17:15:00" duration="60" venue="Divadelní/literární stan" name="Současná slovenská próza: Daniel Majling, BALLA"/>
+	<session dateTime="2018-08-04T17:30:00" duration="122" venue="Reduta 1" name="Špión, který přišel z chladu"/>
+	<session dateTime="2018-08-04T17:30:00" duration="155" venue="Klub kultury 1" name="Po strništi bos (černobílá verze)"/>
+	<session dateTime="2018-08-04T18:00:00" duration="120" venue="Reduta 2" name="Brave New VR Worlds 4"/>
+	<session dateTime="2018-08-04T18:30:00" duration="90" venue="Divadelní/literární stan" name="Harakiri Czurakami"/>
+	<session dateTime="2018-08-04T18:30:00" duration="134" venue="Sportovní hala" name="White Star"/>
+	<session dateTime="2018-08-04T19:30:00" duration="120" venue="Dětský/herní stan" name="Večer deskových her s Mindok"/>
+	<session dateTime="2018-08-04T20:00:00" duration="30" venue="Kino Hvězda" name="Slavnostní zakončení"/>
+	<session dateTime="2018-08-04T20:00:00" duration="120" venue="innogy letní kino Masarykovo nám." name="Barbora Poláková"/>
+	<session dateTime="2018-08-04T20:00:00" duration="180" venue="Divadelní/literární stan" name="Cimbálová muzika Pajtáš"/>
+	<session dateTime="2018-08-04T20:30:00" duration="163" venue="Kino Hvězda" name="Jan Palach"/>
+	<session dateTime="2018-08-04T20:30:00" duration="107" venue="Klub kultury 1" name="Lítost"/>
+	<session dateTime="2018-08-04T21:00:00" duration="133" venue="Slovácké divadlo" name="Moulin Rouge"/>
+	<session dateTime="2018-08-04T21:00:00" duration="60" venue="Klub Mír" name="MIMO a Oliver"/>
+	<session dateTime="2018-08-04T21:00:00" duration="128" venue="Reduta 1" name="Bergman a divadlo"/>
+	<session dateTime="2018-08-04T21:00:00" duration="128" venue="Reduta 1" name="Bergman a film"/>
+	<session dateTime="2018-08-04T21:30:00" duration="130" venue="Sportovní hala" name="Skalpel, prosím"/>
+	<session dateTime="2018-08-04T21:30:00" duration="93" venue="Letní kino Smetanovy sady" name="Konec starých časů"/>
+	<session dateTime="2018-08-04T22:00:00" duration="100" venue="innogy letní kino Masarykovo nám." name="Hastrman"/>
+	<session dateTime="2018-08-04T23:00:00" duration="60" venue="Klub Mír" name="Barbora (Tetris)"/>
+	<session dateTime="2018-08-04T23:30:00" duration="80" venue="Slovácké divadlo" name="Po zkoušce"/>
+	<session dateTime="2018-08-04T23:30:00" duration="106" venue="Letní kino Smetanovy sady" name="Karaoke: Pomáda"/>
+	<session dateTime="2018-08-04T23:59:00" duration="74" venue="innogy letní kino Masarykovo nám." name="Hora"/>
+	<session dateTime="2018-08-04T23:59:00" duration="39" venue="Sportovní hala" name="Scény z předměstí"/>
+	<session dateTime="2018-08-04T23:59:00" duration="110" venue="Sportovní hala" name="Velmi temné období"/>
+	<session dateTime="2018-08-05T09:00:00" duration="130" venue="Kino Hvězda" name="Jan Jílek uvádí"/>
+	<session dateTime="2018-08-05T11:00:00" duration="130" venue="Kino Hvězda" name="Iva Hejlíčková uvádí"/>
+	<session dateTime="2018-08-05T13:00:00" duration="130" venue="Kino Hvězda" name="Radana Korená uvádí"/>
 </sessionList>
