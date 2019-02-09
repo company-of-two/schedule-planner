@@ -57,7 +57,7 @@ public class Catalogue implements ImportExport {
             DocumentBuilder documentBuilder = documentBuilderFactory.newDocumentBuilder();
             Document document = documentBuilder.parse(xmlFile);
 
-            NodeList sessionsNodeList = document.getElementsByTagName(XMLTags.SESSIONS);
+            NodeList sessionsNodeList = document.getElementsByTagName(XMLTags.SESSION);
 
             for (int i = 0; i < sessionsNodeList.getLength(); i++) {
                 Element sessionElement = (Element) sessionsNodeList.item(i);
@@ -82,6 +82,7 @@ public class Catalogue implements ImportExport {
         } catch (Exception e) {
             System.out.println("An error occurred: " + e.getMessage());
         }
+
     }
 
     public void toXML(String outputFilePath) {

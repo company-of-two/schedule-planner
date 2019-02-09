@@ -2,7 +2,7 @@ package schedulePlanner;
 
 public final class XMLTags {
 
-    public static final String SESSIONS             = "sessions";
+    public static final String SESSION_LIST         = "sessionList";
     public static final String SESSION              = "session";
 
     public static final String MAP                  = "map";
