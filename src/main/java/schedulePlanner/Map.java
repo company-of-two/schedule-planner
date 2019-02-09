@@ -1,7 +1,9 @@
 package schedulePlanner;
 
 import java.io.File;
+
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 
 import javax.xml.parsers.DocumentBuilder;
@@ -18,14 +20,14 @@ public class Map implements ImportExport {
     private HashMap<String, Integer> venueIds;
     private ArrayList<ArrayList<Integer> > distancesMatrix;
 
-    //
     private int venuesCount;
+    private int nextVenueId;
 
     public Map() {
         this.venues = new HashMap<String, Venue>();
         this.venueIds = new HashMap<String, Integer>();
-        this.distancesMatrix = new ArrayList<ArrayList<Integer>>();
         this.venuesCount = 0;
+        this.nextVenueId = 0;
     }
 
     public Venue getVenue(String venueName) {
@@ -44,7 +46,7 @@ public class Map implements ImportExport {
     }
 
     private Venue createVenue(String venueName) {
-        venueIds.put(venueName, venuesCount++);
+        this.venueIds.put(venueName, nextVenueId++);
         return new Venue(venueName);
     }
 
@@ -57,6 +59,18 @@ public class Map implements ImportExport {
             DocumentBuilderFactory documentBuilderFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder documentBuilder = documentBuilderFactory.newDocumentBuilder();
             Document document = documentBuilder.parse(xmlFile);
+
+            Element mapElement = document.getDocumentElement();
+
+            if (!mapElement.getTagName().equals(XMLTags.MAP)) {
+                throw new RuntimeException("Wrong file");
+            }
+
+            this.venuesCount = Integer.parseInt(mapElement.getAttribute(XMLAttributes.MAP_VENUES_COUNT));
+
+            this.distancesMatrix = new ArrayList<ArrayList<Integer>>(
+                    Collections.nCopies(this.venuesCount, new ArrayList<Integer>(Collections.nCopies(this.venuesCount, -1)))
+            );
 
             NodeList edgesNodes = document.getElementsByTagName(XMLTags.EDGE);
 
@@ -81,15 +95,20 @@ public class Map implements ImportExport {
                     int fromId = this.venueIds.get(from);
                     int toId = this.venueIds.get(to);
 
-                    this.distancesMatrix.
-                    this.distancesMatrix.get(fromId).ensureCapacity(venuesCount);
+                    // Set the travel time between the two venues
+                    distancesMatrix.get(fromId).set(toId, travelTime);
+
+                    // If the return travel time hasn't been set, set it so that the travel times are symmetrical
+                    if (distancesMatrix.get(toId).get(fromId) == -1) {
+                        distancesMatrix.get(toId).set(fromId, travelTime);
+                    }
 
                 }
 
             }
 
         } catch (Exception e) {
-
+            System.out.println("An error occurred: " + e.getMessage());
         }
 
     }
