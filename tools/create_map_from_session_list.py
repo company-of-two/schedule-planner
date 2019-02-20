@@ -17,6 +17,8 @@ for child in root:
 		venues.append(child.attrib['venue'])
 
 rootMap = ET.Element('map')
+rootMap.set('venuesCount', str(len(venues)))
+
 for i in range(0, len(venues)):
 	for j in range(i+1, len(venues)):
 		edge = ET.SubElement(rootMap, 'edge')
