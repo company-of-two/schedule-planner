@@ -22,7 +22,7 @@ for i in range(0, len(venues)):
 		edge = ET.SubElement(rootMap, 'edge')
 		edge.set('from', venues[i])
 		edge.set('to', venues[j])
-		edge.set('travelTime', '0')
+		edge.set('travelTime', '-1')
 
 tree = ET.ElementTree(rootMap)
-tree.write(mapPath)
+tree.write(mapPath, encoding="utf-8", xml_declaration=True)
